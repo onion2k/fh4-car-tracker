@@ -37,7 +37,7 @@ class App extends Component {
 
     const carsList = cars.map((car)=>{
       const className = this.state.owned.indexOf(`${car.Year}-${car.Car}`)===-1 ? 'Car' : 'Car Owned';
-      return <div className={className} key={`${car.Year}-${car.Car}`} onClick={ ()=>this.toggleOwned(`${car.Year}-${car.Car}`) }>{car.Car}</div>
+      return <div className={className} key={`${car.Year}-${car.Car}`} onClick={ ()=>this.toggleOwned(`${car.Year}-${car.Car}`) }>${car.Year} {car.Car}</div>
     });
 
     return (
