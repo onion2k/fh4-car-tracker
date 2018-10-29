@@ -36,7 +36,7 @@ class App extends Component {
     const cars = this.state.cars.sort((a,b) => (a.Car > b.Car) ? 1 : ((b.Car > a.Car) ? -1 : 0));
 
     const carsList = cars.map((car)=>{
-      const className = this.state.owned.indexOf(car.Car)===-1 ? 'Car' : 'Car Owned';
+      const className = this.state.owned.indexOf(`${car.Year}-${car.Car}`)===-1 ? 'Car' : 'Car Owned';
       return <div className={className} key={`${car.Year}-${car.Car}`} onClick={ ()=>this.toggleOwned(`${car.Year}-${car.Car}`) }>{car.Car}</div>
     });
 
