@@ -1,3 +1,19 @@
 .App {
-  text-align: center;
+  padding: 15px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  grid-auto-rows: 120px;
+  grid-gap: 15px;
+}
+
+.Car {
+  border-radius: 5px;
+  border: 2px solid #000000;
+  padding: 15px;
+  font-size: 14px;
+  background-color: hsl(0, 100%, 100%);
+}
+
+.Car.Owned {
+  background-color: hsl(0, 100%, 75%);
 }
