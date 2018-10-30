@@ -1,6 +1,6 @@
 
 .order {
-  padding: 15px 15px 15px;
+  padding: 15px 15px 15px 50px;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
   grid-auto-rows: 60px;
