@@ -9,11 +9,11 @@ export default class Marque extends Component {
             if (owned && this.props.hide) {
               return null;
             }
-            return <Car {...car} key={`${car.Year}-${car.Car}`} id={`${car.Year}-${car.Car}`} onClick={this.toggleOwned} />
+            return <Car {...car} key={`${car.Year}-${car.Car}`} id={`${car.Year}-${car.Car}`} owned={owned} onClick={this.props.onClick} />
         });
 
         return (<div className={"Marque"}>
-            <div className="title">{this.props.marque}</div>
+            <div className="title" id={`pos-${this.props.marque}`}>{this.props.marque}</div>
             <div className="cars">{carsList}</div>
         </div>);
     }

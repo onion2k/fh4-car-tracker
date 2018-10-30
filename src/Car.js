@@ -3,8 +3,10 @@ import './Car.css';
 
 export default class Car extends Component {
     render(){
-        const className = this.props.owned ? 'Car Owned' : 'Car';
-        return (<div className={className} onClick={()=>{ this.props.onClick(this.props.id) }}>
+        const classes = ['Car'];
+        classes.push("Class-"+this.props.Class.substr(0, this.props.Class.indexOf(" ")));
+        if (this.props.owned) { classes.push("Owned"); }
+        return (<div className={classes.join(" ")} onClick={()=>{ this.props.onClick(this.props.id) }}>
             {this.props.Car}  {this.props.Year}
         </div>);
     }

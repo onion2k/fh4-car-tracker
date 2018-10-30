@@ -54,6 +54,15 @@ class App extends Component {
     });
   }
 
+  shortcut(letter){
+    console.log("Jump to ",letter);
+    const pos = this.state.marques.reduce((i,marque)=>{ if (marque.charAt(0)===letter && i==='') { return marque; } else{ return i; } }, '');
+
+    let element = document.getElementById(`pos-${pos}`);
+    element.scrollIntoView();
+
+  }
+
   render() {
 
     const marqueList = this.state.marques.map((marque)=>{
@@ -62,13 +71,18 @@ class App extends Component {
 
     return (
       <div className="App">
-        <div className="order">
+
+        <div className="shortcuts">
+          { ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'].map((letter)=>{ return (<div key={letter} onClick={()=>{this.shortcut(letter)}}>{letter}</div>); }) }
+        </div>
+
+        {/* <div className="order">
           <Order onClick={this.toggleOrder} field="Car" title="Name" />
           <Order onClick={this.toggleOrder} field="Year" title="Year" />
           <Order onClick={this.toggleOrder} field="Class" title="Class" />
           <Order onClick={this.toggleOrder} field="Rarity" title="Rarity" />
           <Order onClick={this.hideOwned} field="Owned" title={this.state.hide===true?"Show owned":"Hide owned"} />
-        </div>
+        </div> */}
 
         <div className="marques">
           {marqueList}

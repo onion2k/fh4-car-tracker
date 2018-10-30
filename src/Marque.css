@@ -1,3 +1,7 @@
+.Marque {
+
+}
+
 .Marque > div.title {
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f6f8f9+0,e5ebee+50,d7dee3+51,d7dee3+83,ffffff+86 */
     background: #f6f8f9; /* Old browsers */
@@ -15,7 +19,7 @@
     overflow-y: none;
     overflow-x: auto;
     height: 120px;
-    padding: 15px;
+    padding: 15px 30px 15px 15px;
     display: grid;
     grid-template-columns: repeat(auto-fill, 120px);
     grid-auto-rows: 120px;
@@ -25,17 +29,4 @@
 
 .cars::-webkit-scrollbar {
     display: none;
-}
-
-.Car {
-    width: 90px;
-    border-radius: 5px;
-    border: 2px solid #000000;
-    padding: 15px;
-    font-size: 14px;
-    background-color: hsl(0, 100%, 100%);
-}
-
-.Car.Owned {
-    background-color: hsl(0, 100%, 75%);
 }
