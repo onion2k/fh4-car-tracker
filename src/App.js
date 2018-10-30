@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { default as cars } from './cars.json';
 import Order from './Order.js';
+import Marque from './Marque';
 import Car from './Car.js';
 import './App.css';
 
@@ -11,7 +12,14 @@ class App extends Component {
     const ownedRaw = localStorage.getItem("owned");
     const owned = ownedRaw ? JSON.parse(ownedRaw) : [];
     const data = cars.sort((a,b) => (a.Car > b.Car) ? 1 : ((b.Car > a.Car) ? -1 : 0));
+    const marques = cars.reduce((i, car)=>{
+      if (i.indexOf(car.Marque)===-1) {
+        i.push(car.Marque);
+      }
+      return i;
+    }, []);
     this.state = {
+      marques: marques,
       cars: data,
       owned: owned,
       hide: false
@@ -29,7 +37,6 @@ class App extends Component {
   }
 
   hideOwned(){
-    console.log("hide")
     this.setState({
       hide: !this.state.hide
     });
@@ -49,6 +56,7 @@ class App extends Component {
   }
 
   render() {
+
     const carsList = cars.map((car)=>{
       const owned = this.state.owned.indexOf(`${car.Year}-${car.Car}`)===-1 ? false : true;
       if (owned && this.state.hide) {
@@ -56,6 +64,11 @@ class App extends Component {
       }
       return <Car {...car} key={`${car.Year}-${car.Car}`} id={`${car.Year}-${car.Car}`} onClick={this.toggleOwned} owned={owned} />
     });
+
+    const marqueList = this.state.marques.map((marque)=>{
+      return <Marque key={`${marque}`} id={`${marque}`} onClick={this.toggleOwned} marque={marque} />
+    });
+
     return (
       <div className="App">
         <div className="order">
@@ -65,6 +78,11 @@ class App extends Component {
           <Order onClick={this.toggleOrder} field="Rarity" title="Rarity" />
           <Order onClick={this.hideOwned} field="Owned" title={this.state.hide===true?"Show owned":"Hide owned"} />
         </div>
+
+        <div className="marques">
+          {marqueList}
+        </div>
+
         <div className="cars">
           {carsList}
         </div>
