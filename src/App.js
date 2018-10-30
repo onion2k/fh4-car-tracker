@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { default as cars } from './cars.json';
 import Order from './Order.js';
 import Marque from './Marque';
-import Car from './Car.js';
 import './App.css';
 
 class App extends Component {
@@ -57,16 +56,8 @@ class App extends Component {
 
   render() {
 
-    const carsList = cars.map((car)=>{
-      const owned = this.state.owned.indexOf(`${car.Year}-${car.Car}`)===-1 ? false : true;
-      if (owned && this.state.hide) {
-        return null;
-      }
-      return <Car {...car} key={`${car.Year}-${car.Car}`} id={`${car.Year}-${car.Car}`} onClick={this.toggleOwned} owned={owned} />
-    });
-
     const marqueList = this.state.marques.map((marque)=>{
-      return <Marque key={`${marque}`} id={`${marque}`} onClick={this.toggleOwned} marque={marque} />
+      return <Marque key={`${marque}`} id={`${marque}`} onClick={this.toggleOwned} marque={marque} owned={this.state.owned} cars={this.state.cars} hide={this.state.hide} />
     });
 
     return (
@@ -83,9 +74,6 @@ class App extends Component {
           {marqueList}
         </div>
 
-        <div className="cars">
-          {carsList}
-        </div>
       </div>
     );
   }
