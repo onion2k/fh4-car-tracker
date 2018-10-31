@@ -1,8 +1,12 @@
 
+.App {
+  background-color: #ffffff;
+}
+
 .order {
   padding: 15px 15px 15px 50px;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  grid-template-columns: repeat(auto-fill, 150px);
   grid-auto-rows: 60px;
   grid-gap: 15px;
 }
@@ -11,9 +15,9 @@
   position: fixed;
   top: 0;
   left: 0;
-  bottom: 0;
   background-color: #f6f8f9;
   width: 30px;
+  height: 100vh;
   display: grid;
   align-items: center;
   justify-content: center;
