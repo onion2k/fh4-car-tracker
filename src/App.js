@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Provider } from "mobx-react";
-import { default as cars } from './cars.json';
 import Options from './Options.js';
 import MarqueList from './MarqueList';
 import './App.css';
