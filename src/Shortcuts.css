@@ -1,0 +1,16 @@
+
+.shortcuts {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #f6f8f9;
+    width: 30px;
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    grid-template-columns: 30px;
+    grid-template-rows: repeat(26, 1fr);
+    grid-gap: 12px;
+  }
