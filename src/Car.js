@@ -7,7 +7,10 @@ class Car extends Component {
         const classes = ['Car'];
         classes.push("Class-"+this.props.Class.substr(0, this.props.Class.indexOf(" ")));
         if (this.props.owned) { classes.push("Owned"); }
-        return (<div className={classes.join(" ")} onClick={()=>{ this.props.fh4State.toggle(this.props.id) }}>
+        return (<div className={classes.join(" ")} onClick={(e)=>{
+            e.stopPropagation(); e.preventDefault();
+            this.props.fh4State.toggle(this.props.id);
+        }}>
             {this.props.Car}  {this.props.Year}
         </div>);
     }
