@@ -6,7 +6,7 @@ class Car extends Component {
     render(){
         const classes = ['Car'];
         classes.push("Class-"+this.props.Class.substr(0, this.props.Class.indexOf(" ")));
-        if (this.props.owned) { classes.push("Owned"); }
+        if (this.props.Owned) { classes.push("Owned"); }
         return (<div className={classes.join(" ")} onClick={(e)=>{
             e.stopPropagation(); e.preventDefault();
             this.props.fh4State.toggle(this.props.id);

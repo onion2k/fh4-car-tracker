@@ -1,8 +1,8 @@
 .Car {
-    width: 90px;
+    width: 130px;
     border-radius: 5px;
     border: 3px solid #000000;
-    padding: 15px;
+    padding: 10px;
     font-size: 10px;
     background-color: hsl(0, 100%, 100%);
 }

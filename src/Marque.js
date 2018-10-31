@@ -4,14 +4,37 @@ import Car from './Car.js';
 import './Marque.css';
 
 class Marque extends Component {
-    render(){
-        const carsList = this.props.fh4State.marque(this.props.marque).map((car)=>{
-            return <Car {...car} key={`${car.Year}-${car.Car}`} id={`${car.Year}-${car.Car}`} owned={car.Owned} onClick={this.props.onClick} />
-        });
 
-        return (<div className={"Marque"}>
-            <div className="title" id={`pos-${this.props.marque}`}>{this.props.marque}</div>
-            <div className="cars">{carsList}</div>
+    state = { hide: false };
+    toggle = this.toggle.bind(this);
+
+    toggle() {
+        this.setState({ hide: !this.state.hide });
+    }
+
+    render(){
+
+        let marqueCars = this.props.fh4State.marque(this.props.marque);
+        const className = ["Marque"];
+
+        if (this.props.fh4State.hideComplete) {
+            if (marqueCars.filter((car)=>{
+                return !car.Owned;
+            }).length===0) {
+                return null;
+            }
+        }
+
+        marqueCars.sort((a,b) => (a[this.props.fh4State.sortField] > b[this.props.fh4State.sortField]) ? 1 : ((b[this.props.fh4State.sortField] > a[this.props.fh4State.sortField]) ? -1 : 0));
+
+        const carsList = this.state.hide ? null : <div className="cars">{marqueCars.map((car)=>{
+            if (this.props.fh4State.hideOwned && car.Owned) { return null; }
+            return <Car {...car} key={`${car.Year}-${car.Car}`} id={`${car.Year}-${car.Car}`} Owned={car.Owned} />
+        })}</div>;
+
+        return (<div className={className.join(" ")}>
+            <div className="title" id={`pos-${this.props.marque}`} onClick={ this.toggle }>{this.props.marque}</div>
+            {carsList}
         </div>);
     }
 }
