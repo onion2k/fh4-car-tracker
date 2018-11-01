@@ -1,15 +1,27 @@
 .Car {
-    width: 120px;
+    width: 100px;
     border-radius: 5px;
     border: 3px solid #000000;
     padding: 10px;
-    font-size: 10px;
+    font-size: 14px;
     background-color: hsl(0, 100%, 100%);
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 2fr 1fr;
+    grid-gap: 10px;
+    grid-template-areas: "title title" "class year";
 }
+  
+.title { grid-area: title; font-size: 16px;font-weight: bold; overflow: hidden; }
+
+.class { grid-area: class; align-self: flex-end; }
+
+.year { grid-area: year; align-self: flex-end; justify-self: flex-end; font-size: 18px; font-weight: bold; }
 
 .Owned {
-    background-color: hsl(0, 0%, 25%);
-    color: white;
+    background-color: hsl(113, 100%, 80%);
+    color: rgb(165, 207, 137);
 }
 
 .Class-D {
