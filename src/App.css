@@ -1,6 +1,7 @@
 
 .App {
   background-color: #ffffff;
+  overflow-x: hidden;
 }
 
 .order {
