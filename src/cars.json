@@ -11,7 +11,6 @@
     "Launch": 7.6,
     "Braking": 5.4,
     "Class": "C 577",
-    "Owned": "Yes",
     "Marque": "Arbarth"
   },
   {
@@ -26,7 +25,6 @@
     "Launch": 4.9,
     "Braking": 4,
     "Class": "D 100",
-    "Owned": "Yes",
     "Marque": "Arbarth"
   },
   {
@@ -41,7 +39,6 @@
     "Launch": 7.5,
     "Braking": 6.4,
     "Class": "B 607",
-    "Owned": "Yes",
     "Marque": "Arbarth"
   },
   {
@@ -56,7 +53,6 @@
     "Launch": 7.1,
     "Braking": 4.5,
     "Class": "D 449",
-    "Owned": "Yes",
     "Marque": "Arbarth"
   },
   {
@@ -71,7 +67,6 @@
     "Launch": 6.9,
     "Braking": 5.4,
     "Class": "C 596",
-    "Owned": "Yes",
     "Marque": "Acura"
   },
   {
@@ -86,7 +81,6 @@
     "Launch": 6.7,
     "Braking": 5.4,
     "Class": "C 588",
-    "Owned": "Yes",
     "Marque": "Acura"
   },
   {
@@ -101,7 +95,6 @@
     "Launch": 8.8,
     "Braking": 7,
     "Class": "A 770",
-    "Owned": "Yes",
     "Marque": "Alfa Romeo"
   },
   {
@@ -116,7 +109,6 @@
     "Launch": 8.2,
     "Braking": 6.8,
     "Class": "A 777",
-    "Owned": "Yes",
     "Marque": "Alfa Romeo"
   },
   {
@@ -131,7 +123,6 @@
     "Launch": 9.6,
     "Braking": 9.6,
     "Class": "S1 899",
-    "Owned": "Yes",
     "Marque": "Alfa Romeo"
   },
   {
@@ -146,7 +137,6 @@
     "Launch": 8.5,
     "Braking": 7.9,
     "Class": "A 795",
-    "Owned": "Yes",
     "Marque": "Alfa Romeo"
   },
   {
@@ -161,7 +151,6 @@
     "Launch": 7.9,
     "Braking": 6.2,
     "Class": "B 673",
-    "Owned": "Yes",
     "Marque": "Alumi Craft"
   },
   {
@@ -176,7 +165,6 @@
     "Launch": 9.2,
     "Braking": 6.8,
     "Class": "A 800",
-    "Owned": "Yes",
     "Marque": "Alumi Craft"
   },
   {
@@ -191,7 +179,6 @@
     "Launch": 6.6,
     "Braking": 4.4,
     "Class": "D 394",
-    "Owned": "Yes",
     "Marque": "AMC"
   },
   {
@@ -206,7 +193,6 @@
     "Launch": 6.6,
     "Braking": 4.2,
     "Class": "C 512",
-    "Owned": "Yes",
     "Marque": "AMC"
   },
   {
@@ -221,7 +207,6 @@
     "Launch": 9.8,
     "Braking": 10,
     "Class": "S2 970",
-    "Owned": "Yes",
     "Marque": "Ariel"
   },
   {
@@ -236,7 +221,6 @@
     "Launch": 9.2,
     "Braking": 6.1,
     "Class": "A 732",
-    "Owned": "Yes",
     "Marque": "Ariel"
   },
   {
@@ -251,7 +235,6 @@
     "Launch": 8.6,
     "Braking": 8.9,
     "Class": "S1 866",
-    "Owned": "Yes",
     "Marque": "Ascari"
   },
   {
@@ -266,7 +249,6 @@
     "Launch": 8.4,
     "Braking": 7.6,
     "Class": "S1 810",
-    "Owned": "Yes",
     "Marque": "Aston Martin"
   },
   {
@@ -281,7 +263,6 @@
     "Launch": 5.1,
     "Braking": 4.6,
     "Class": "B 619",
-    "Owned": "Yes",
     "Marque": "Aston Martin"
   },
   {
@@ -296,7 +277,6 @@
     "Launch": 7.1,
     "Braking": 4.3,
     "Class": "C 534",
-    "Owned": "Yes",
     "Marque": "Aston Martin"
   },
   {
@@ -311,7 +291,6 @@
     "Launch": 8.2,
     "Braking": 7.4,
     "Class": "S1 814",
-    "Owned": "Yes",
     "Marque": "Aston Martin"
   },
   {
@@ -326,7 +305,6 @@
     "Launch": 9,
     "Braking": 10,
     "Class": "S2 954",
-    "Owned": "Yes",
     "Marque": "Aston Martin"
   },
   {
@@ -341,7 +319,6 @@
     "Launch": 9.5,
     "Braking": 7.7,
     "Class": "S1 824",
-    "Owned": "Yes",
     "Marque": "Audi"
   },
   {
@@ -356,7 +333,6 @@
     "Launch": 8.7,
     "Braking": 5.2,
     "Class": "B 616",
-    "Owned": "Yes",
     "Marque": "Audi"
   },
   {
@@ -371,7 +347,6 @@
     "Launch": 8.9,
     "Braking": 6.3,
     "Class": "B 699",
-    "Owned": "Yes",
     "Marque": "Audi"
   },
   {
@@ -386,7 +361,6 @@
     "Launch": 8.9,
     "Braking": 6.2,
     "Class": "A 729",
-    "Owned": "Yes",
     "Marque": "Audi"
   },
   {
@@ -401,7 +375,6 @@
     "Launch": 8.7,
     "Braking": 6.7,
     "Class": "A 750",
-    "Owned": "Yes",
     "Marque": "Audi"
   },
   {
@@ -416,7 +389,6 @@
     "Launch": 8.4,
     "Braking": 5.8,
     "Class": "A 710",
-    "Owned": "Yes",
     "Marque": "Audi"
   },
   {
@@ -431,7 +403,6 @@
     "Launch": 8.8,
     "Braking": 5.2,
     "Class": "B 621",
-    "Owned": "Yes",
     "Marque": "Audi"
   },
   {
@@ -446,7 +417,6 @@
     "Launch": 9,
     "Braking": 5.8,
     "Class": "A 740",
-    "Owned": "Yes",
     "Marque": "Audi"
   },
   {
@@ -461,7 +431,6 @@
     "Launch": 6.5,
     "Braking": 3.6,
     "Class": "D 326",
-    "Owned": "Yes",
     "Marque": "Austin-Healey"
   },
   {
@@ -476,7 +445,6 @@
     "Launch": 5.6,
     "Braking": 3.7,
     "Class": "D 100",
-    "Owned": "Yes",
     "Marque": "Austin-Healey"
   },
   {
@@ -491,7 +459,6 @@
     "Launch": 9,
     "Braking": 10,
     "Class": "S1 900",
-    "Owned": "Yes",
     "Marque": "BAC"
   },
   {
@@ -506,7 +473,6 @@
     "Launch": 9.4,
     "Braking": 6.3,
     "Class": "A 758",
-    "Owned": "Yes",
     "Marque": "Bentley"
   },
   {
@@ -521,7 +487,6 @@
     "Launch": 9.5,
     "Braking": 6.7,
     "Class": "A 774",
-    "Owned": "Yes",
     "Marque": "Bentley"
   },
   {
@@ -536,7 +501,6 @@
     "Launch": 9.5,
     "Braking": 10,
     "Class": "S1 900",
-    "Owned": "Yes",
     "Marque": "Bentley"
   },
   {
@@ -551,7 +515,6 @@
     "Launch": 10,
     "Braking": 7,
     "Class": "A 798",
-    "Owned": "Yes",
     "Marque": "Bentley"
   },
   {
@@ -566,7 +529,6 @@
     "Launch": 8,
     "Braking": 6.4,
     "Class": "A 731",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -581,7 +543,6 @@
     "Launch": 5.9,
     "Braking": 4.5,
     "Class": "D 500",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -596,7 +557,6 @@
     "Launch": 10,
     "Braking": 6.6,
     "Class": "A 785",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -611,7 +571,6 @@
     "Launch": 3.1,
     "Braking": 4,
     "Class": "D 100",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -626,7 +585,6 @@
     "Launch": 7.2,
     "Braking": 5.4,
     "Class": "B 652",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -641,7 +599,6 @@
     "Launch": 8.1,
     "Braking": 6.3,
     "Class": "A 737",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -656,7 +613,6 @@
     "Launch": 8,
     "Braking": 5.5,
     "Class": "B 694",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -671,7 +627,6 @@
     "Launch": 7.4,
     "Braking": 5,
     "Class": "C 586",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -686,7 +641,6 @@
     "Launch": 7.9,
     "Braking": 6,
     "Class": "A 719",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -701,7 +655,6 @@
     "Launch": 8.2,
     "Braking": 6.6,
     "Class": "A 758",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -716,7 +669,6 @@
     "Launch": 7.7,
     "Braking": 5.3,
     "Class": "C 594",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -731,7 +683,6 @@
     "Launch": 7.8,
     "Braking": 5.4,
     "Class": "B 634",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -746,7 +697,6 @@
     "Launch": 8.3,
     "Braking": 7.1,
     "Class": "A 800",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -761,7 +711,6 @@
     "Launch": 7.9,
     "Braking": 6.8,
     "Class": "A 779",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -776,7 +725,6 @@
     "Launch": 9.1,
     "Braking": 5.5,
     "Class": "A 708",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -791,7 +739,6 @@
     "Launch": 8.1,
     "Braking": 6.1,
     "Class": "A 713",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -806,7 +753,6 @@
     "Launch": 8.3,
     "Braking": 6,
     "Class": "A 710",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -821,7 +767,6 @@
     "Launch": 8.2,
     "Braking": 5.7,
     "Class": "A 727",
-    "Owned": "Yes",
     "Marque": "BMW"
   },
   {
@@ -836,7 +781,6 @@
     "Launch": 10,
     "Braking": 6,
     "Class": "A 760",
-    "Owned": "Yes",
     "Marque": "Bowler"
   },
   {
@@ -851,7 +795,6 @@
     "Launch": 7.1,
     "Braking": 4.5,
     "Class": "C 567",
-    "Owned": "Yes",
     "Marque": "Buick"
   },
   {
@@ -866,7 +809,6 @@
     "Launch": 8.1,
     "Braking": 6.2,
     "Class": "A 737",
-    "Owned": "Yes",
     "Marque": "Cadillac"
   },
   {
@@ -881,7 +823,6 @@
     "Launch": 7.9,
     "Braking": 6.6,
     "Class": "A 785",
-    "Owned": "Yes",
     "Marque": "Cadillac"
   },
   {
@@ -896,7 +837,6 @@
     "Launch": 7.9,
     "Braking": 7.1,
     "Class": "S1 804",
-    "Owned": "Yes",
     "Marque": "Caterham"
   },
   {
@@ -911,7 +851,6 @@
     "Launch": 8.4,
     "Braking": 7.1,
     "Class": "S1 804",
-    "Owned": "Yes",
     "Marque": "Caterham"
   },
   {
@@ -926,7 +865,6 @@
     "Launch": 6.3,
     "Braking": 3.6,
     "Class": "D 286",
-    "Owned": "Yes",
     "Marque": "Chevrolet"
   },
   {
@@ -941,7 +879,6 @@
     "Launch": 6.7,
     "Braking": 4.6,
     "Class": "C 566",
-    "Owned": "Yes",
     "Marque": "Chevrolet"
   },
   {
@@ -956,7 +893,6 @@
     "Launch": 8.3,
     "Braking": 8.3,
     "Class": "S1 818",
-    "Owned": "Yes",
     "Marque": "Chevrolet"
   },
   {
@@ -971,7 +907,6 @@
     "Launch": 6.4,
     "Braking": 4.3,
     "Class": "C 542",
-    "Owned": "Yes",
     "Marque": "Chevrolet"
   },
   {
@@ -986,7 +921,6 @@
     "Launch": 7.8,
     "Braking": 5.8,
     "Class": "A 741",
-    "Owned": "Yes",
     "Marque": "Chevrolet"
   },
   {
@@ -1001,7 +935,6 @@
     "Launch": 6.3,
     "Braking": 4.3,
     "Class": "C 556",
-    "Owned": "Yes",
     "Marque": "Chevrolet"
   },
   {
@@ -1016,7 +949,6 @@
     "Launch": 6.9,
     "Braking": 4.5,
     "Class": "C 582",
-    "Owned": "Yes",
     "Marque": "Chevrolet"
   },
   {
@@ -1031,7 +963,6 @@
     "Launch": 6.6,
     "Braking": 4.3,
     "Class": "C 552",
-    "Owned": "Yes",
     "Marque": "Chevrolet"
   },
   {
@@ -1046,7 +977,6 @@
     "Launch": 6.7,
     "Braking": 4.4,
     "Class": "C 557",
-    "Owned": "Yes",
     "Marque": "Chrysler"
   },
   {
@@ -1061,7 +991,6 @@
     "Launch": 6.9,
     "Braking": 4.8,
     "Class": "C 595",
-    "Owned": "Yes",
     "Marque": "Dodge"
   },
   {
@@ -1076,7 +1005,6 @@
     "Launch": 7,
     "Braking": 4.6,
     "Class": "B 626",
-    "Owned": "Yes",
     "Marque": "Dodge"
   },
   {
@@ -1091,7 +1019,6 @@
     "Launch": 8.7,
     "Braking": 10,
     "Class": "S1 893",
-    "Owned": "Yes",
     "Marque": "Dodge"
   },
   {
@@ -1106,7 +1033,6 @@
     "Launch": 8.1,
     "Braking": 5.9,
     "Class": "A 732",
-    "Owned": "Yes",
     "Marque": "Dodge"
   },
   {
@@ -1121,7 +1047,6 @@
     "Launch": 8.4,
     "Braking": 7.8,
     "Class": "S1 827",
-    "Owned": "Yes",
     "Marque": "Donkervoort"
   },
   {
@@ -1136,7 +1061,6 @@
     "Launch": 9.1,
     "Braking": 8.8,
     "Class": "S1 885",
-    "Owned": "Yes",
     "Marque": "Ferrari"
   },
   {
@@ -1151,7 +1075,6 @@
     "Launch": 9.1,
     "Braking": 8.7,
     "Class": "S1 883",
-    "Owned": "Yes",
     "Marque": "Ferrari"
   },
   {
@@ -1166,7 +1089,6 @@
     "Launch": 8.9,
     "Braking": 8.5,
     "Class": "S1 861",
-    "Owned": "Yes",
     "Marque": "Ferrari"
   },
   {
@@ -1181,7 +1103,6 @@
     "Launch": 8.5,
     "Braking": 7.3,
     "Class": "S1 804",
-    "Owned": "Yes",
     "Marque": "Ferrari"
   },
   {
@@ -1196,7 +1117,6 @@
     "Launch": 5.8,
     "Braking": 4.5,
     "Class": "C 512",
-    "Owned": "Yes",
     "Marque": "Ferrari"
   },
   {
@@ -1211,7 +1131,6 @@
     "Launch": 7.4,
     "Braking": 6.3,
     "Class": "A 737",
-    "Owned": "Yes",
     "Marque": "Ferrari"
   },
   {
@@ -1226,7 +1145,6 @@
     "Launch": 8.8,
     "Braking": 7.2,
     "Class": "S1 815",
-    "Owned": "Yes",
     "Marque": "Ferrari"
   },
   {
@@ -1241,7 +1159,6 @@
     "Launch": 6.5,
     "Braking": 4,
     "Class": "D 244",
-    "Owned": "Yes",
     "Marque": "Fiat"
   },
   {
@@ -1256,7 +1173,6 @@
     "Launch": 4.9,
     "Braking": 3.9,
     "Class": "D 100",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1271,7 +1187,6 @@
     "Launch": 7,
     "Braking": 3.9,
     "Class": "D 379",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1286,7 +1201,6 @@
     "Launch": 6.9,
     "Braking": 4.4,
     "Class": "D 478",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1301,7 +1215,6 @@
     "Launch": 5.5,
     "Braking": 3.7,
     "Class": "D 100",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1316,7 +1229,6 @@
     "Launch": 5.9,
     "Braking": 3.2,
     "Class": "D 100",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1331,7 +1243,6 @@
     "Launch": 8,
     "Braking": 5.3,
     "Class": "C 566",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1346,7 +1257,6 @@
     "Launch": 7.3,
     "Braking": 4.9,
     "Class": "C 506",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1361,7 +1271,6 @@
     "Launch": 6.7,
     "Braking": 4.8,
     "Class": "D 440",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1376,7 +1285,6 @@
     "Launch": 6.1,
     "Braking": 3.7,
     "Class": "D 221",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1391,7 +1299,6 @@
     "Launch": 8.5,
     "Braking": 5.4,
     "Class": "B 627",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1406,7 +1313,6 @@
     "Launch": 7.8,
     "Braking": 6.4,
     "Class": "A 739",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1421,7 +1327,6 @@
     "Launch": 6.9,
     "Braking": 4.6,
     "Class": "B 608",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1436,7 +1341,6 @@
     "Launch": 7.4,
     "Braking": 5.7,
     "Class": "B 621",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1451,7 +1355,6 @@
     "Launch": 6.4,
     "Braking": 4.6,
     "Class": "D 324",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1466,7 +1369,6 @@
     "Launch": 7.7,
     "Braking": 6.4,
     "Class": "B 649",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1481,7 +1383,6 @@
     "Launch": 9.2,
     "Braking": 6.5,
     "Class": "A 718",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1496,7 +1397,6 @@
     "Launch": 7.7,
     "Braking": 5.9,
     "Class": "A 710",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1511,7 +1411,6 @@
     "Launch": 7.4,
     "Braking": 5.7,
     "Class": "A 772",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1526,7 +1425,6 @@
     "Launch": 6.7,
     "Braking": 4.6,
     "Class": "D 379",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1541,7 +1439,6 @@
     "Launch": 8.1,
     "Braking": 6.6,
     "Class": "A 778",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1556,7 +1453,6 @@
     "Launch": 8,
     "Braking": 7.2,
     "Class": "S1 839",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1571,7 +1467,6 @@
     "Launch": 8.8,
     "Braking": 8.5,
     "Class": "S1 840",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1586,7 +1481,6 @@
     "Launch": 7.4,
     "Braking": 5.6,
     "Class": "B 682",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1601,7 +1495,6 @@
     "Launch": 7.1,
     "Braking": 5.1,
     "Class": "D 416",
-    "Owned": "Yes",
     "Marque": "Ford"
   },
   {
@@ -1616,7 +1509,6 @@
     "Launch": 8.5,
     "Braking": 7.6,
     "Class": "S1 860",
-    "Owned": "Yes",
     "Marque": "Formula Drift"
   },
   {
@@ -1631,7 +1523,6 @@
     "Launch": 8.3,
     "Braking": 7.7,
     "Class": "S1 852",
-    "Owned": "Yes",
     "Marque": "Formula Drift"
   },
   {
@@ -1646,7 +1537,6 @@
     "Launch": 8.2,
     "Braking": 7.6,
     "Class": "S1 859",
-    "Owned": "Yes",
     "Marque": "Formula Drift"
   },
   {
@@ -1661,7 +1551,6 @@
     "Launch": 8.2,
     "Braking": 7.9,
     "Class": "S1 859",
-    "Owned": "Yes",
     "Marque": "Formula Drift"
   },
   {
@@ -1676,7 +1565,6 @@
     "Launch": 5.4,
     "Braking": 3.8,
     "Class": "D 151",
-    "Owned": "Yes",
     "Marque": "GMC"
   },
   {
@@ -1691,7 +1579,6 @@
     "Launch": 6.7,
     "Braking": 4.4,
     "Class": "C 524",
-    "Owned": "Yes",
     "Marque": "Holden"
   },
   {
@@ -1706,7 +1593,6 @@
     "Launch": 6.9,
     "Braking": 4.5,
     "Class": "D 500",
-    "Owned": "Yes",
     "Marque": "Holden"
   },
   {
@@ -1721,7 +1607,6 @@
     "Launch": 6.5,
     "Braking": 4.5,
     "Class": "C 507",
-    "Owned": "Yes",
     "Marque": "Holden"
   },
   {
@@ -1736,7 +1621,6 @@
     "Launch": 6.8,
     "Braking": 5.2,
     "Class": "C 551",
-    "Owned": "Yes",
     "Marque": "Honda"
   },
   {
@@ -1751,7 +1635,6 @@
     "Launch": 6.9,
     "Braking": 5.3,
     "Class": "C 576",
-    "Owned": "Yes",
     "Marque": "Honda"
   },
   {
@@ -1766,7 +1649,6 @@
     "Launch": 7.2,
     "Braking": 5.5,
     "Class": "B 610",
-    "Owned": "Yes",
     "Marque": "Honda"
   },
   {
@@ -1781,7 +1663,6 @@
     "Launch": 6,
     "Braking": 4.7,
     "Class": "C 504",
-    "Owned": "Yes",
     "Marque": "Honda"
   },
   {
@@ -1796,7 +1677,6 @@
     "Launch": 7.7,
     "Braking": 6.4,
     "Class": "A 707",
-    "Owned": "Yes",
     "Marque": "Honda"
   },
   {
@@ -1811,7 +1691,6 @@
     "Launch": 7.5,
     "Braking": 5.3,
     "Class": "B 647",
-    "Owned": "Yes",
     "Marque": "Honda"
   },
   {
@@ -1826,7 +1705,6 @@
     "Launch": 6.9,
     "Braking": 4.5,
     "Class": "C 571",
-    "Owned": "Yes",
     "Marque": "Hoonigan"
   },
   {
@@ -1841,7 +1719,6 @@
     "Launch": 7.8,
     "Braking": 6.9,
     "Class": "A 764",
-    "Owned": "Yes",
     "Marque": "HSV"
   },
   {
@@ -1856,7 +1733,6 @@
     "Launch": 7.6,
     "Braking": 5.8,
     "Class": "B 657",
-    "Owned": "Yes",
     "Marque": "Hyundai"
   },
   {
@@ -1871,7 +1747,6 @@
     "Launch": 10,
     "Braking": 6.8,
     "Class": "A 783",
-    "Owned": "Yes",
     "Marque": "Infiniti"
   },
   {
@@ -1886,7 +1761,6 @@
     "Launch": 7.7,
     "Braking": 6.6,
     "Class": "A 757",
-    "Owned": "Yes",
     "Marque": "Infiniti"
   },
   {
@@ -1901,7 +1775,6 @@
     "Launch": 7.6,
     "Braking": 3.8,
     "Class": "D 334",
-    "Owned": "Yes",
     "Marque": "International"
   },
   {
@@ -1916,7 +1789,6 @@
     "Launch": 7,
     "Braking": 4.7,
     "Class": "C 539",
-    "Owned": "Yes",
     "Marque": "Jaguar"
   },
   {
@@ -1931,7 +1803,6 @@
     "Launch": 8.7,
     "Braking": 6,
     "Class": "B 698",
-    "Owned": "Yes",
     "Marque": "Jaguar"
   },
   {
@@ -1946,7 +1817,6 @@
     "Launch": 8,
     "Braking": 7.4,
     "Class": "S1 805",
-    "Owned": "Yes",
     "Marque": "Jaguar"
   },
   {
@@ -1961,7 +1831,6 @@
     "Launch": 6.5,
     "Braking": 4.8,
     "Class": "D 414",
-    "Owned": "Yes",
     "Marque": "Jaguar"
   },
   {
@@ -1976,7 +1845,6 @@
     "Launch": 7.7,
     "Braking": 5.3,
     "Class": "B 660",
-    "Owned": "Yes",
     "Marque": "Jaguar"
   },
   {
@@ -1991,7 +1859,6 @@
     "Launch": 7.9,
     "Braking": 6.5,
     "Class": "A 755",
-    "Owned": "Yes",
     "Marque": "Jaguar"
   },
   {
@@ -2006,7 +1873,6 @@
     "Launch": 5.7,
     "Braking": 4.8,
     "Class": "C 557",
-    "Owned": "Yes",
     "Marque": "Jaguar"
   },
   {
@@ -2021,7 +1887,6 @@
     "Launch": 7.6,
     "Braking": 7.1,
     "Class": "S1 811",
-    "Owned": "Yes",
     "Marque": "Jaguar"
   },
   {
@@ -2036,7 +1901,6 @@
     "Launch": 7.1,
     "Braking": 4.4,
     "Class": "D 469",
-    "Owned": "Yes",
     "Marque": "Jaguar"
   },
   {
@@ -2051,7 +1915,6 @@
     "Launch": 10,
     "Braking": 6.7,
     "Class": "A 780",
-    "Owned": "Yes",
     "Marque": "Jeep"
   },
   {
@@ -2066,7 +1929,6 @@
     "Launch": 8.1,
     "Braking": 5.6,
     "Class": "A 790",
-    "Owned": "Yes",
     "Marque": "Jeep"
   },
   {
@@ -2081,7 +1943,6 @@
     "Launch": 7.3,
     "Braking": 4.3,
     "Class": "D 488",
-    "Owned": "Yes",
     "Marque": "Jeep"
   },
   {
@@ -2096,7 +1957,6 @@
     "Launch": 7.8,
     "Braking": 5.9,
     "Class": "A 715",
-    "Owned": "Yes",
     "Marque": "Kia"
   },
   {
@@ -2111,7 +1971,6 @@
     "Launch": 9.1,
     "Braking": 9.8,
     "Class": "S1 819",
-    "Owned": "Yes",
     "Marque": "KTM"
   },
   {
@@ -2126,7 +1985,6 @@
     "Launch": 10,
     "Braking": 8.4,
     "Class": "S2 997",
-    "Owned": "Yes",
     "Marque": "Lamborghini"
   },
   {
@@ -2141,7 +1999,6 @@
     "Launch": 7.5,
     "Braking": 6,
     "Class": "A 759",
-    "Owned": "Yes",
     "Marque": "Lamborghini"
   },
   {
@@ -2156,7 +2013,6 @@
     "Launch": 8,
     "Braking": 6.5,
     "Class": "A 787",
-    "Owned": "Yes",
     "Marque": "Lamborghini"
   },
   {
@@ -2171,7 +2027,6 @@
     "Launch": 10,
     "Braking": 8.4,
     "Class": "S1 866",
-    "Owned": "Yes",
     "Marque": "Lamborghini"
   },
   {
@@ -2186,7 +2041,6 @@
     "Launch": 5.3,
     "Braking": 4.5,
     "Class": "C 553",
-    "Owned": "Yes",
     "Marque": "Lamborghini"
   },
   {
@@ -2201,7 +2055,6 @@
     "Launch": 6.6,
     "Braking": 4.8,
     "Class": "B 619",
-    "Owned": "Yes",
     "Marque": "Lamborghini"
   },
   {
@@ -2216,7 +2069,6 @@
     "Launch": 7.3,
     "Braking": 5.5,
     "Class": "C 590",
-    "Owned": "Yes",
     "Marque": "Lancia"
   },
   {
@@ -2231,7 +2083,6 @@
     "Launch": 8.7,
     "Braking": 5.6,
     "Class": "B 638",
-    "Owned": "Yes",
     "Marque": "Lancia"
   },
   {
@@ -2246,7 +2097,6 @@
     "Launch": 5.5,
     "Braking": 4.5,
     "Class": "D 357",
-    "Owned": "Yes",
     "Marque": "Land Rover"
   },
   {
@@ -2261,7 +2111,6 @@
     "Launch": 6.7,
     "Braking": 4.4,
     "Class": "D 235",
-    "Owned": "Yes",
     "Marque": "Land Rover"
   },
   {
@@ -2276,7 +2125,6 @@
     "Launch": 9.2,
     "Braking": 6.4,
     "Class": "A 752",
-    "Owned": "Yes",
     "Marque": "Land Rover"
   },
   {
@@ -2291,7 +2139,6 @@
     "Launch": 4.7,
     "Braking": 4,
     "Class": "D 100",
-    "Owned": "Yes",
     "Marque": "Land Rover"
   },
   {
@@ -2306,7 +2153,6 @@
     "Launch": 8.8,
     "Braking": 5.6,
     "Class": "S1 802",
-    "Owned": "Yes",
     "Marque": "Land Rover"
   },
   {
@@ -2321,7 +2167,6 @@
     "Launch": 7.3,
     "Braking": 5.9,
     "Class": "A 760",
-    "Owned": "Yes",
     "Marque": "Local Motors"
   },
   {
@@ -2336,7 +2181,6 @@
     "Launch": 8.9,
     "Braking": 9.9,
     "Class": "S1 813",
-    "Owned": "Yes",
     "Marque": "Lotus"
   },
   {
@@ -2351,7 +2195,6 @@
     "Launch": 9.4,
     "Braking": 9.9,
     "Class": "S1 870",
-    "Owned": "Yes",
     "Marque": "Lotus"
   },
   {
@@ -2366,7 +2209,6 @@
     "Launch": 8.5,
     "Braking": 7.8,
     "Class": "A 706",
-    "Owned": "Yes",
     "Marque": "Lotus"
   },
   {
@@ -2381,7 +2223,6 @@
     "Launch": 6.3,
     "Braking": 4.7,
     "Class": "D 456",
-    "Owned": "Yes",
     "Marque": "Lotus"
   },
   {
@@ -2396,7 +2237,6 @@
     "Launch": 8.4,
     "Braking": 9,
     "Class": "S1 815",
-    "Owned": "Yes",
     "Marque": "Lotus"
   },
   {
@@ -2411,7 +2251,6 @@
     "Launch": 8.6,
     "Braking": 6.5,
     "Class": "A 756",
-    "Owned": "Yes",
     "Marque": "Lotus"
   },
   {
@@ -2426,7 +2265,6 @@
     "Launch": 8.3,
     "Braking": 6.3,
     "Class": "A 727",
-    "Owned": "Yes",
     "Marque": "Maserati"
   },
   {
@@ -2441,7 +2279,6 @@
     "Launch": 7.8,
     "Braking": 5.7,
     "Class": "B 605",
-    "Owned": "Yes",
     "Marque": "Mazda"
   },
   {
@@ -2456,7 +2293,6 @@
     "Launch": 7.9,
     "Braking": 5.7,
     "Class": "B 625",
-    "Owned": "Yes",
     "Marque": "Mazda"
   },
   {
@@ -2471,7 +2307,6 @@
     "Launch": 7.4,
     "Braking": 5,
     "Class": "C 525",
-    "Owned": "Yes",
     "Marque": "Mazda"
   },
   {
@@ -2486,7 +2321,6 @@
     "Launch": 6.4,
     "Braking": 4.3,
     "Class": "D 428",
-    "Owned": "Yes",
     "Marque": "Mazda"
   },
   {
@@ -2501,7 +2335,6 @@
     "Launch": 7.7,
     "Braking": 5.6,
     "Class": "B 638",
-    "Owned": "Yes",
     "Marque": "Mazda"
   },
   {
@@ -2516,7 +2349,6 @@
     "Launch": 8.9,
     "Braking": 8,
     "Class": "S1 848",
-    "Owned": "Yes",
     "Marque": "McLaren"
   },
   {
@@ -2531,7 +2363,6 @@
     "Launch": 8.7,
     "Braking": 7.9,
     "Class": "S1 820",
-    "Owned": "Yes",
     "Marque": "Mercedes-AMG"
   },
   {
@@ -2546,7 +2377,6 @@
     "Launch": 8.6,
     "Braking": 6.8,
     "Class": "B 682",
-    "Owned": "Yes",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -2561,7 +2391,6 @@
     "Launch": 9.8,
     "Braking": 6.4,
     "Class": "A 722",
-    "Owned": "Yes",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -2576,7 +2405,6 @@
     "Launch": 8.3,
     "Braking": 7.3,
     "Class": "S1 820",
-    "Owned": "Yes",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -2591,7 +2419,6 @@
     "Launch": 3.5,
     "Braking": 4.2,
     "Class": "D 163",
-    "Owned": "Yes",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -2606,7 +2433,6 @@
     "Launch": 6.3,
     "Braking": 3.7,
     "Class": "D 158",
-    "Owned": "Yes",
     "Marque": "Mercury"
   },
   {
@@ -2621,7 +2447,6 @@
     "Launch": 6,
     "Braking": 4.7,
     "Class": "D 218",
-    "Owned": "Yes",
     "Marque": "Meyers"
   },
   {
@@ -2636,7 +2461,6 @@
     "Launch": 10,
     "Braking": 8.8,
     "Class": "S1 852",
-    "Owned": "Yes",
     "Marque": "MG"
   },
   {
@@ -2651,7 +2475,6 @@
     "Launch": 6.6,
     "Braking": 4.5,
     "Class": "D 316",
-    "Owned": "Yes",
     "Marque": "MG"
   },
   {
@@ -2666,7 +2489,6 @@
     "Launch": 6.2,
     "Braking": 3.9,
     "Class": "D 205",
-    "Owned": "Yes",
     "Marque": "Mini"
   },
   {
@@ -2681,7 +2503,6 @@
     "Launch": 6.1,
     "Braking": 4.7,
     "Class": "D 450",
-    "Owned": "Yes",
     "Marque": "Morgan"
   },
   {
@@ -2696,7 +2517,6 @@
     "Launch": 8.3,
     "Braking": 6.3,
     "Class": "A 766",
-    "Owned": "Yes",
     "Marque": "Morgan"
   },
   {
@@ -2711,7 +2531,6 @@
     "Launch": 4.9,
     "Braking": 3.8,
     "Class": "D 100",
-    "Owned": "Yes",
     "Marque": "Morris"
   },
   {
@@ -2726,7 +2545,6 @@
     "Launch": 7.7,
     "Braking": 5.1,
     "Class": "B 671",
-    "Owned": "Yes",
     "Marque": "Nissan"
   },
   {
@@ -2741,7 +2559,6 @@
     "Launch": 6.4,
     "Braking": 4.6,
     "Class": "D 439",
-    "Owned": "Yes",
     "Marque": "Nissan"
   },
   {
@@ -2756,7 +2573,6 @@
     "Launch": 7.8,
     "Braking": 8.5,
     "Class": "S1 877",
-    "Owned": "Yes",
     "Marque": "Nissan"
   },
   {
@@ -2771,7 +2587,6 @@
     "Launch": 7,
     "Braking": 4.6,
     "Class": "C 525",
-    "Owned": "Yes",
     "Marque": "Nissan"
   },
   {
@@ -2786,7 +2601,6 @@
     "Launch": 7.5,
     "Braking": 5,
     "Class": "C 593",
-    "Owned": "Yes",
     "Marque": "Nissan"
   },
   {
@@ -2801,7 +2615,6 @@
     "Launch": 6.4,
     "Braking": 4.5,
     "Class": "D 455",
-    "Owned": "Yes",
     "Marque": "Nissan"
   },
   {
@@ -2816,7 +2629,6 @@
     "Launch": 8,
     "Braking": 5.5,
     "Class": "B 633",
-    "Owned": "Yes",
     "Marque": "Nissan"
   },
   {
@@ -2831,7 +2643,6 @@
     "Launch": 8.1,
     "Braking": 6,
     "Class": "B 691",
-    "Owned": "Yes",
     "Marque": "Nissan"
   },
   {
@@ -2846,7 +2657,6 @@
     "Launch": 9.3,
     "Braking": 9,
     "Class": "S1 900",
-    "Owned": "Yes",
     "Marque": "Noble"
   },
   {
@@ -2861,7 +2671,6 @@
     "Launch": 6.3,
     "Braking": 4.3,
     "Class": "C 520",
-    "Owned": "Yes",
     "Marque": "Oldsmobile Hurst"
   },
   {
@@ -2876,7 +2685,6 @@
     "Launch": 7.9,
     "Braking": 7,
     "Class": "A 740",
-    "Owned": "Yes",
     "Marque": "Opel"
   },
   {
@@ -2891,7 +2699,6 @@
     "Launch": 4.9,
     "Braking": 7,
     "Class": "D 100",
-    "Owned": "Yes",
     "Marque": "Peel"
   },
   {
@@ -2906,7 +2713,6 @@
     "Launch": 6.6,
     "Braking": 5.5,
     "Class": "C 597",
-    "Owned": "Yes",
     "Marque": "Peugoet"
   },
   {
@@ -2921,7 +2727,6 @@
     "Launch": 6.5,
     "Braking": 4.3,
     "Class": "C 560",
-    "Owned": "Yes",
     "Marque": "Plymouth"
   },
   {
@@ -2936,7 +2741,6 @@
     "Launch": 7.1,
     "Braking": 6.2,
     "Class": "D 464",
-    "Owned": "Yes",
     "Marque": "Polaris"
   },
   {
@@ -2951,7 +2755,6 @@
     "Launch": 6.1,
     "Braking": 4.2,
     "Class": "D 431",
-    "Owned": "Yes",
     "Marque": "Pontiac"
   },
   {
@@ -2966,7 +2769,6 @@
     "Launch": 6.8,
     "Braking": 4.5,
     "Class": "C 505",
-    "Owned": "Yes",
     "Marque": "Pontiac"
   },
   {
@@ -2981,7 +2783,6 @@
     "Launch": 6.5,
     "Braking": 4.4,
     "Class": "C 536",
-    "Owned": "Yes",
     "Marque": "Pontiac"
   },
   {
@@ -2996,7 +2797,6 @@
     "Launch": 6.9,
     "Braking": 3.7,
     "Class": "D 387",
-    "Owned": "Yes",
     "Marque": "Porsche"
   },
   {
@@ -3011,7 +2811,6 @@
     "Launch": 6.7,
     "Braking": 5.6,
     "Class": "B 688",
-    "Owned": "Yes",
     "Marque": "Porsche"
   },
   {
@@ -3026,7 +2825,6 @@
     "Launch": 8.1,
     "Braking": 6,
     "Class": "B 659",
-    "Owned": "Yes",
     "Marque": "Porsche"
   },
   {
@@ -3041,7 +2839,6 @@
     "Launch": 10,
     "Braking": 6.7,
     "Class": "A 784",
-    "Owned": "Yes",
     "Marque": "Porsche"
   },
   {
@@ -3056,7 +2853,6 @@
     "Launch": 10,
     "Braking": 7.1,
     "Class": "A 769",
-    "Owned": "Yes",
     "Marque": "Porsche"
   },
   {
@@ -3071,7 +2867,6 @@
     "Launch": 9.3,
     "Braking": 8.8,
     "Class": "S1 840",
-    "Owned": "Yes",
     "Marque": "Porsche"
   },
   {
@@ -3086,7 +2881,6 @@
     "Launch": 8.6,
     "Braking": 7.5,
     "Class": "A 791",
-    "Owned": "Yes",
     "Marque": "Porsche"
   },
   {
@@ -3101,7 +2895,6 @@
     "Launch": 9.4,
     "Braking": 10,
     "Class": "S2 958",
-    "Owned": "Yes",
     "Marque": "Radical"
   },
   {
@@ -3116,7 +2909,6 @@
     "Launch": 5.2,
     "Braking": 5.1,
     "Class": "C 518",
-    "Owned": "Yes",
     "Marque": "Ram"
   },
   {
@@ -3131,7 +2923,6 @@
     "Launch": 5.4,
     "Braking": 3.6,
     "Class": "D 100",
-    "Owned": "Yes",
     "Marque": "Reliant"
   },
   {
@@ -3146,7 +2937,6 @@
     "Launch": 8,
     "Braking": 4.8,
     "Class": "C 512",
-    "Owned": "Yes",
     "Marque": "Renault"
   },
   {
@@ -3161,7 +2951,6 @@
     "Launch": 10,
     "Braking": 9.3,
     "Class": "S1 900",
-    "Owned": "Yes",
     "Marque": "Renault"
   },
   {
@@ -3176,7 +2965,6 @@
     "Launch": 7.4,
     "Braking": 5.5,
     "Class": "C 598",
-    "Owned": "Yes",
     "Marque": "Renault"
   },
   {
@@ -3191,7 +2979,6 @@
     "Launch": 7.6,
     "Braking": 6.1,
     "Class": "B 606",
-    "Owned": "Yes",
     "Marque": "Renault"
   },
   {
@@ -3206,7 +2993,6 @@
     "Launch": 7.7,
     "Braking": 7.7,
     "Class": "A 701",
-    "Owned": "Yes",
     "Marque": "Renault"
   },
   {
@@ -3221,7 +3007,6 @@
     "Launch": 7.3,
     "Braking": 4.9,
     "Class": "C 502",
-    "Owned": "Yes",
     "Marque": "Renault"
   },
   {
@@ -3236,7 +3021,6 @@
     "Launch": 7.8,
     "Braking": 6.5,
     "Class": "B 666",
-    "Owned": "Yes",
     "Marque": "Renault"
   },
   {
@@ -3251,7 +3035,6 @@
     "Launch": 7.3,
     "Braking": 4.7,
     "Class": "C 562",
-    "Owned": "Yes",
     "Marque": "Subaru"
   },
   {
@@ -3266,7 +3049,6 @@
     "Launch": 8.5,
     "Braking": 5.5,
     "Class": "B 650",
-    "Owned": "Yes",
     "Marque": "Subaru"
   },
   {
@@ -3281,7 +3063,6 @@
     "Launch": 9.5,
     "Braking": 5.5,
     "Class": "B 694",
-    "Owned": "Yes",
     "Marque": "Subaru"
   },
   {
@@ -3296,7 +3077,6 @@
     "Launch": 7.4,
     "Braking": 4.9,
     "Class": "C 503",
-    "Owned": "Yes",
     "Marque": "Subaru"
   },
   {
@@ -3311,7 +3091,6 @@
     "Launch": 8.5,
     "Braking": 6,
     "Class": "B 682",
-    "Owned": "Yes",
     "Marque": "Subaru"
   },
   {
@@ -3326,7 +3105,6 @@
     "Launch": 7.1,
     "Braking": 4.5,
     "Class": "D 500",
-    "Owned": "Yes",
     "Marque": "Sunbeam"
   },
   {
@@ -3341,7 +3119,6 @@
     "Launch": 6.9,
     "Braking": 4.7,
     "Class": "D 469",
-    "Owned": "Yes",
     "Marque": "Talbot"
   },
   {
@@ -3356,7 +3133,6 @@
     "Launch": 5.8,
     "Braking": 5.7,
     "Class": "C 516",
-    "Owned": "Yes",
     "Marque": "Toyota"
   },
   {
@@ -3371,7 +3147,6 @@
     "Launch": 5.1,
     "Braking": 5.3,
     "Class": "D 444",
-    "Owned": "Yes",
     "Marque": "Toyota"
   },
   {
@@ -3386,7 +3161,6 @@
     "Launch": 6.3,
     "Braking": 3.7,
     "Class": "D 203",
-    "Owned": "Yes",
     "Marque": "Triumph"
   },
   {
@@ -3401,7 +3175,6 @@
     "Launch": 8.2,
     "Braking": 7.7,
     "Class": "S1 874",
-    "Owned": "Yes",
     "Marque": "TVR"
   },
   {
@@ -3416,7 +3189,6 @@
     "Launch": 9.8,
     "Braking": 10,
     "Class": "S2 998",
-    "Owned": "Yes",
     "Marque": "Ultima"
   },
   {
@@ -3431,7 +3203,6 @@
     "Launch": 7.8,
     "Braking": 6.7,
     "Class": "B 684",
-    "Owned": "Yes",
     "Marque": "Vauxhall"
   },
   {
@@ -3446,7 +3217,6 @@
     "Launch": 7.5,
     "Braking": 6.3,
     "Class": "B 610",
-    "Owned": "Yes",
     "Marque": "Vauxhall"
   },
   {
@@ -3461,7 +3231,6 @@
     "Launch": 7.6,
     "Braking": 5.3,
     "Class": "B 665",
-    "Owned": "Yes",
     "Marque": "Vauxhall"
   },
   {
@@ -3476,7 +3245,6 @@
     "Launch": 7.8,
     "Braking": 5.5,
     "Class": "A 716",
-    "Owned": "Yes",
     "Marque": "Vauxhall"
   },
   {
@@ -3491,7 +3259,6 @@
     "Launch": 6.4,
     "Braking": 5.2,
     "Class": "D 438",
-    "Owned": "Yes",
     "Marque": "Volkswagen"
   },
   {
@@ -3506,7 +3273,6 @@
     "Launch": 10,
     "Braking": 8.1,
     "Class": "S1 869",
-    "Owned": "Yes",
     "Marque": "Volkswagen"
   },
   {
@@ -3521,7 +3287,6 @@
     "Launch": 3.8,
     "Braking": 3.8,
     "Class": "D 100",
-    "Owned": "Yes",
     "Marque": "Volkswagen"
   },
   {
@@ -3536,7 +3301,6 @@
     "Launch": 7.2,
     "Braking": 6.1,
     "Class": "D 407",
-    "Owned": "Yes",
     "Marque": "Volkswagen"
   },
   {
@@ -3551,7 +3315,6 @@
     "Launch": 7.1,
     "Braking": 4.8,
     "Class": "C 535",
-    "Owned": "Yes",
     "Marque": "Volkswagen"
   },
   {
@@ -3566,7 +3329,6 @@
     "Launch": 10,
     "Braking": 7.9,
     "Class": "S1 846",
-    "Owned": "Yes",
     "Marque": "Volkswagen"
   },
   {
@@ -3581,7 +3343,6 @@
     "Launch": 6.9,
     "Braking": 4.6,
     "Class": "D 408",
-    "Owned": "Yes",
     "Marque": "Volkswagen"
   },
   {
@@ -3596,7 +3357,6 @@
     "Launch": 6.5,
     "Braking": 4.7,
     "Class": "D 454",
-    "Owned": "Yes",
     "Marque": "Volkswagen"
   },
   {
@@ -3611,7 +3371,6 @@
     "Launch": 8.6,
     "Braking": 5.4,
     "Class": "B 630",
-    "Owned": "Yes",
     "Marque": "Volkswagen"
   },
   {
@@ -3626,7 +3385,6 @@
     "Launch": 7.7,
     "Braking": 6.2,
     "Class": "B 678",
-    "Owned": "Yes",
     "Marque": "Volkswagen"
   },
   {
@@ -3641,7 +3399,6 @@
     "Launch": 6.4,
     "Braking": 4.5,
     "Class": "D 264",
-    "Owned": "Yes",
     "Marque": "Volkswagen"
   },
   {
@@ -3656,7 +3413,6 @@
     "Launch": 9,
     "Braking": 6.3,
     "Class": "B 631",
-    "Owned": "Yes",
     "Marque": "Volkswagen"
   },
   {
@@ -3671,7 +3427,6 @@
     "Launch": 3.9,
     "Braking": 3.9,
     "Class": "D 100",
-    "Owned": "Yes",
     "Marque": "Volkswagen"
   },
   {
@@ -3686,7 +3441,6 @@
     "Launch": 7,
     "Braking": 4.8,
     "Class": "C 512",
-    "Owned": "Yes",
     "Marque": "Volvo"
   },
   {
@@ -3701,7 +3455,6 @@
     "Launch": 6.5,
     "Braking": 4.6,
     "Class": "C 544",
-    "Owned": "Yes",
     "Marque": "Volvo"
   },
   {
@@ -3716,7 +3469,6 @@
     "Launch": 8.9,
     "Braking": 5.7,
     "Class": "B 652",
-    "Owned": "Yes",
     "Marque": "Volvo"
   },
   {
@@ -3731,7 +3483,6 @@
     "Launch": 6,
     "Braking": 4,
     "Class": "D 100",
-    "Owned": "Yes",
     "Marque": "Willys"
   },
   {
@@ -3746,7 +3497,6 @@
     "Launch": 10,
     "Braking": 8.3,
     "Class": "S1 850",
-    "Owned": "",
     "Marque": "Acura"
   },
   {
@@ -3761,7 +3511,6 @@
     "Launch": 8.6,
     "Braking": 5.5,
     "Class": "A 716",
-    "Owned": "",
     "Marque": "Alfa Romeo"
   },
   {
@@ -3776,7 +3525,6 @@
     "Launch": 9.1,
     "Braking": 8.7,
     "Class": "S1 900",
-    "Owned": "",
     "Marque": "Alfa Romeo"
   },
   {
@@ -3791,7 +3539,6 @@
     "Launch": 6.9,
     "Braking": 4.5,
     "Class": "D 432",
-    "Owned": "",
     "Marque": "Alfa Romeo"
   },
   {
@@ -3806,7 +3553,6 @@
     "Launch": 7,
     "Braking": 5.1,
     "Class": "B 639",
-    "Owned": "",
     "Marque": "Alfa Romeo"
   },
   {
@@ -3821,7 +3567,6 @@
     "Launch": 7.1,
     "Braking": 4.9,
     "Class": "B 626",
-    "Owned": "",
     "Marque": "Alfa Romeo"
   },
   {
@@ -3836,7 +3581,6 @@
     "Launch": 10,
     "Braking": 6.3,
     "Class": "A 752",
-    "Owned": "",
     "Marque": "Alfa Romeo"
   },
   {
@@ -3851,7 +3595,6 @@
     "Launch": 10,
     "Braking": 7.5,
     "Class": "A 756",
-    "Owned": "",
     "Marque": "AMG Transport"
   },
   {
@@ -3866,7 +3609,6 @@
     "Launch": 6.1,
     "Braking": 5.1,
     "Class": "B 688",
-    "Owned": "",
     "Marque": "Aston Martin"
   },
   {
@@ -3881,7 +3623,6 @@
     "Launch": 8.7,
     "Braking": 8,
     "Class": "S1 863",
-    "Owned": "",
     "Marque": "Aston Martin"
   },
   {
@@ -3896,7 +3637,6 @@
     "Launch": 8.3,
     "Braking": 7.5,
     "Class": "S1 802",
-    "Owned": "",
     "Marque": "Aston Martin"
   },
   {
@@ -3911,7 +3651,6 @@
     "Launch": 8.5,
     "Braking": 9.1,
     "Class": "S1 846",
-    "Owned": "",
     "Marque": "Aston Martin"
   },
   {
@@ -3926,7 +3665,6 @@
     "Launch": 9,
     "Braking": 10,
     "Class": "S2 955",
-    "Owned": "",
     "Marque": "Aston Martin"
   },
   {
@@ -3941,7 +3679,6 @@
     "Launch": 8,
     "Braking": 8.1,
     "Class": "S1 850",
-    "Owned": "",
     "Marque": "Audi"
   },
   {
@@ -3956,7 +3693,6 @@
     "Launch": 9.9,
     "Braking": 8.1,
     "Class": "S1 856",
-    "Owned": "",
     "Marque": "Audi"
   },
   {
@@ -3971,7 +3707,6 @@
     "Launch": 9,
     "Braking": 5.5,
     "Class": "B 695",
-    "Owned": "",
     "Marque": "Audi"
   },
   {
@@ -3986,7 +3721,6 @@
     "Launch": 9,
     "Braking": 7,
     "Class": "A 750",
-    "Owned": "",
     "Marque": "Audi"
   },
   {
@@ -4001,7 +3735,6 @@
     "Launch": 9.1,
     "Braking": 6.7,
     "Class": "A 743",
-    "Owned": "",
     "Marque": "Audi"
   },
   {
@@ -4016,7 +3749,6 @@
     "Launch": 10,
     "Braking": 6.7,
     "Class": "A 778",
-    "Owned": "",
     "Marque": "Audi"
   },
   {
@@ -4031,7 +3763,6 @@
     "Launch": 9.9,
     "Braking": 6.5,
     "Class": "A 761",
-    "Owned": "",
     "Marque": "Audi"
   },
   {
@@ -4046,7 +3777,6 @@
     "Launch": 8.7,
     "Braking": 6.6,
     "Class": "B 679",
-    "Owned": "",
     "Marque": "Audi"
   },
   {
@@ -4061,7 +3791,6 @@
     "Launch": "",
     "Braking": "",
     "Class": "",
-    "Owned": "",
     "Marque": "Audi"
   },
   {
@@ -4076,7 +3805,6 @@
     "Launch": 9.2,
     "Braking": 6.2,
     "Class": "A 722",
-    "Owned": "",
     "Marque": "Audi"
   },
   {
@@ -4091,7 +3819,6 @@
     "Launch": 4.5,
     "Braking": 3.5,
     "Class": "D 100",
-    "Owned": "",
     "Marque": "Austin"
   },
   {
@@ -4106,7 +3833,6 @@
     "Launch": "",
     "Braking": "",
     "Class": "",
-    "Owned": "",
     "Marque": "Austin"
   },
   {
@@ -4121,7 +3847,6 @@
     "Launch": 7.3,
     "Braking": 4.6,
     "Class": "B 692",
-    "Owned": "",
     "Marque": "Auto Union"
   },
   {
@@ -4136,7 +3861,6 @@
     "Launch": 5.9,
     "Braking": 3.7,
     "Class": "D 200",
-    "Owned": "",
     "Marque": "Bentley"
   },
   {
@@ -4151,7 +3875,6 @@
     "Launch": 5.8,
     "Braking": 3.7,
     "Class": "D 175",
-    "Owned": "",
     "Marque": "Bentley"
   },
   {
@@ -4166,7 +3889,6 @@
     "Launch": 10,
     "Braking": 6.4,
     "Class": "A 776",
-    "Owned": "",
     "Marque": "BMW"
   },
   {
@@ -4181,7 +3903,6 @@
     "Launch": 8,
     "Braking": 5.7,
     "Class": "B 700",
-    "Owned": "",
     "Marque": "BMW"
   },
   {
@@ -4196,7 +3917,6 @@
     "Launch": 7.9,
     "Braking": 6.4,
     "Class": "A 745",
-    "Owned": "",
     "Marque": "BMW"
   },
   {
@@ -4211,7 +3931,6 @@
     "Launch": 8.2,
     "Braking": 7.5,
     "Class": "A 800",
-    "Owned": "",
     "Marque": "BMW"
   },
   {
@@ -4226,7 +3945,6 @@
     "Launch": 8.4,
     "Braking": 8.8,
     "Class": "S1 841",
-    "Owned": "",
     "Marque": "BMW"
   },
   {
@@ -4241,7 +3959,6 @@
     "Launch": 8.2,
     "Braking": 6.7,
     "Class": "A 790",
-    "Owned": "",
     "Marque": "BMW"
   },
   {
@@ -4256,7 +3973,6 @@
     "Launch": 9,
     "Braking": 8.2,
     "Class": "S1 900",
-    "Owned": "",
     "Marque": "BMW"
   },
   {
@@ -4271,7 +3987,6 @@
     "Launch": 9.4,
     "Braking": 5.8,
     "Class": "A 727",
-    "Owned": "",
     "Marque": "BMW"
   },
   {
@@ -4286,7 +4001,6 @@
     "Launch": 10,
     "Braking": 8.7,
     "Class": "S2 938",
-    "Owned": "",
     "Marque": "Bugatti"
   },
   {
@@ -4301,7 +4015,6 @@
     "Launch": 9.9,
     "Braking": 7.4,
     "Class": "S1 829",
-    "Owned": "",
     "Marque": "Bugatti"
   },
   {
@@ -4316,7 +4029,6 @@
     "Launch": 4.8,
     "Braking": 4.8,
     "Class": "D 374",
-    "Owned": "",
     "Marque": "Bugatti"
   },
   {
@@ -4331,7 +4043,6 @@
     "Launch": 10,
     "Braking": 8.4,
     "Class": "S2 922",
-    "Owned": "",
     "Marque": "Bugatti"
   },
   {
@@ -4346,7 +4057,6 @@
     "Launch": 5.1,
     "Braking": 5.4,
     "Class": "C 534",
-    "Owned": "",
     "Marque": "Cadillac"
   },
   {
@@ -4361,7 +4071,6 @@
     "Launch": 10,
     "Braking": 6.4,
     "Class": "B 692",
-    "Owned": "",
     "Marque": "Can Am"
   },
   {
@@ -4376,7 +4085,6 @@
     "Launch": 5.1,
     "Braking": 4.3,
     "Class": "D 444",
-    "Owned": "",
     "Marque": "Chevrolet"
   },
   {
@@ -4391,7 +4099,6 @@
     "Launch": 6.7,
     "Braking": 4.4,
     "Class": "D 460",
-    "Owned": "",
     "Marque": "Chevrolet"
   },
   {
@@ -4406,7 +4113,6 @@
     "Launch": 6.5,
     "Braking": 4.3,
     "Class": "C 547",
-    "Owned": "",
     "Marque": "Chevrolet"
   },
   {
@@ -4421,7 +4127,6 @@
     "Launch": 8.7,
     "Braking": 8.4,
     "Class": "S1 848",
-    "Owned": "",
     "Marque": "Chevrolet"
   },
   {
@@ -4436,7 +4141,6 @@
     "Launch": 7.3,
     "Braking": 5.6,
     "Class": "C 598",
-    "Owned": "",
     "Marque": "Chevrolet"
   },
   {
@@ -4451,7 +4155,6 @@
     "Launch": 4.3,
     "Braking": 4.2,
     "Class": "D 347",
-    "Owned": "",
     "Marque": "Chevrolet"
   },
   {
@@ -4466,7 +4169,6 @@
     "Launch": 6.6,
     "Braking": 4.4,
     "Class": "C 521",
-    "Owned": "",
     "Marque": "Chevrolet"
   },
   {
@@ -4481,7 +4183,6 @@
     "Launch": 6.7,
     "Braking": 4.8,
     "Class": "B 621",
-    "Owned": "",
     "Marque": "Chevrolet"
   },
   {
@@ -4496,7 +4197,6 @@
     "Launch": 8.6,
     "Braking": 8.9,
     "Class": "S1 871",
-    "Owned": "",
     "Marque": "Chevrolet"
   },
   {
@@ -4511,7 +4211,6 @@
     "Launch": 7.6,
     "Braking": 5.4,
     "Class": "A 748",
-    "Owned": "",
     "Marque": "Chevrolet"
   },
   {
@@ -4526,7 +4225,6 @@
     "Launch": 6.7,
     "Braking": 4.7,
     "Class": "B 605",
-    "Owned": "",
     "Marque": "Chevrolet"
   },
   {
@@ -4541,7 +4239,6 @@
     "Launch": 6.3,
     "Braking": 7.5,
     "Class": "S1 824",
-    "Owned": "",
     "Marque": "Chevrolet"
   },
   {
@@ -4556,7 +4253,6 @@
     "Launch": 6.4,
     "Braking": 4.2,
     "Class": "C 527",
-    "Owned": "",
     "Marque": "Chevrolet"
   },
   {
@@ -4571,7 +4267,6 @@
     "Launch": 6.3,
     "Braking": 3.9,
     "Class": "D 415",
-    "Owned": "",
     "Marque": "Chevrolet"
   },
   {
@@ -4586,7 +4281,6 @@
     "Launch": 10,
     "Braking": 7.5,
     "Class": "S2 981",
-    "Owned": "",
     "Marque": "Chevrolet"
   },
   {
@@ -4601,7 +4295,6 @@
     "Launch": 6.1,
     "Braking": 3.8,
     "Class": "D 209",
-    "Owned": "",
     "Marque": "Datsun"
   },
   {
@@ -4616,7 +4309,6 @@
     "Launch": 6.5,
     "Braking": 4.4,
     "Class": "C 562",
-    "Owned": "",
     "Marque": "Dodge"
   },
   {
@@ -4631,7 +4323,6 @@
     "Launch": 8,
     "Braking": 7.4,
     "Class": "S1 823",
-    "Owned": "",
     "Marque": "Dodge"
   },
   {
@@ -4646,7 +4337,6 @@
     "Launch": 7.5,
     "Braking": 6.5,
     "Class": "A 776",
-    "Owned": "",
     "Marque": "Dodge"
   },
   {
@@ -4661,7 +4351,6 @@
     "Launch": 6.8,
     "Braking": 4.3,
     "Class": "C 558",
-    "Owned": "",
     "Marque": "Dodge"
   },
   {
@@ -4676,7 +4365,6 @@
     "Launch": 7.7,
     "Braking": 6.5,
     "Class": "A 785",
-    "Owned": "",
     "Marque": "Dodge"
   },
   {
@@ -4691,7 +4379,6 @@
     "Launch": 9.2,
     "Braking": 5.5,
     "Class": "A 709",
-    "Owned": "",
     "Marque": "Dodge"
   },
   {
@@ -4706,7 +4393,6 @@
     "Launch": 8.2,
     "Braking": 7.2,
     "Class": "S1 831",
-    "Owned": "",
     "Marque": "Dodge"
   },
   {
@@ -4721,7 +4407,6 @@
     "Launch": 8.3,
     "Braking": 9.6,
     "Class": "S1 866",
-    "Owned": "",
     "Marque": "Dodge"
   },
   {
@@ -4736,7 +4421,6 @@
     "Launch": 7.8,
     "Braking": 6.7,
     "Class": "A 740",
-    "Owned": "",
     "Marque": "Eagle"
   },
   {
@@ -4751,7 +4435,6 @@
     "Launch": 8.9,
     "Braking": 6,
     "Class": "A 799",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4766,7 +4449,6 @@
     "Launch": 7.1,
     "Braking": 4.9,
     "Class": "C 554",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4781,7 +4463,6 @@
     "Launch": 6,
     "Braking": 4.5,
     "Class": "C 540",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4796,7 +4477,6 @@
     "Launch": 7.2,
     "Braking": 4.6,
     "Class": "C 568",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4811,7 +4491,6 @@
     "Launch": 6.2,
     "Braking": 4.7,
     "Class": "B 679",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4826,7 +4505,6 @@
     "Launch": 7.7,
     "Braking": 4.7,
     "Class": "A 704",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4841,7 +4519,6 @@
     "Launch": 5.9,
     "Braking": 5.6,
     "Class": "A 732",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4856,7 +4533,6 @@
     "Launch": 8.4,
     "Braking": 6.1,
     "Class": "A 768",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4871,7 +4547,6 @@
     "Launch": 8.7,
     "Braking": 7.4,
     "Class": "A 792",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4886,7 +4561,6 @@
     "Launch": 7.1,
     "Braking": 4.6,
     "Class": "B 641",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4901,7 +4575,6 @@
     "Launch": 8.8,
     "Braking": 7.9,
     "Class": "S1 834",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4916,7 +4589,6 @@
     "Launch": 8.9,
     "Braking": 7.9,
     "Class": "S1 846",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4931,7 +4603,6 @@
     "Launch": 5,
     "Braking": 4.7,
     "Class": "C 544",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4946,7 +4617,6 @@
     "Launch": 7.7,
     "Braking": 5.8,
     "Class": "A 754",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4961,7 +4631,6 @@
     "Launch": 8.3,
     "Braking": 6.1,
     "Class": "A 772",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4976,7 +4645,6 @@
     "Launch": 9.3,
     "Braking": 9.9,
     "Class": "S2 937",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -4991,7 +4659,6 @@
     "Launch": 8.7,
     "Braking": 8.6,
     "Class": "S1 897",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -5006,7 +4673,6 @@
     "Launch": 8.9,
     "Braking": 8.4,
     "Class": "S1 874",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -5021,7 +4687,6 @@
     "Launch": 8.7,
     "Braking": 7.9,
     "Class": "S1 868",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -5036,7 +4701,6 @@
     "Launch": 8.9,
     "Braking": 9,
     "Class": "S2 901",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -5051,7 +4715,6 @@
     "Launch": 8.1,
     "Braking": 7,
     "Class": "S1 807",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -5066,7 +4729,6 @@
     "Launch": 5.4,
     "Braking": 10,
     "Class": "S2 961",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -5081,7 +4743,6 @@
     "Launch": 8.5,
     "Braking": 7.4,
     "Class": "S1 815",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -5096,7 +4757,6 @@
     "Launch": 9.5,
     "Braking": 10,
     "Class": "S2 992",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -5111,7 +4771,6 @@
     "Launch": 9.9,
     "Braking": 10,
     "Class": "S2 989",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -5126,7 +4785,6 @@
     "Launch": 9.5,
     "Braking": 10,
     "Class": "S2 966",
-    "Owned": "",
     "Marque": "Ferrari"
   },
   {
@@ -5141,7 +4799,6 @@
     "Launch": 8,
     "Braking": 6.2,
     "Class": "A 785",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5156,7 +4813,6 @@
     "Launch": 10,
     "Braking": 8,
     "Class": "S1 880",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5171,7 +4827,6 @@
     "Launch": 7.2,
     "Braking": 6,
     "Class": "A 795",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5186,7 +4841,6 @@
     "Launch": 7.1,
     "Braking": 5.3,
     "Class": "B 613",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5201,7 +4855,6 @@
     "Launch": 5.6,
     "Braking": 4.7,
     "Class": "C 521",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5216,7 +4869,6 @@
     "Launch": 6.5,
     "Braking": 3.7,
     "Class": "D 311",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5231,7 +4883,6 @@
     "Launch": 7.2,
     "Braking": 4.9,
     "Class": "C 564",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5246,7 +4897,6 @@
     "Launch": 8.5,
     "Braking": 6.8,
     "Class": "S1 811",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5261,7 +4911,6 @@
     "Launch": 7.6,
     "Braking": 6.5,
     "Class": "B 696",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5276,7 +4925,6 @@
     "Launch": 7.3,
     "Braking": 7.4,
     "Class": "S1 810",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5291,7 +4939,6 @@
     "Launch": 9,
     "Braking": 8.9,
     "Class": "S1 900",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5306,7 +4953,6 @@
     "Launch": 10,
     "Braking": 8.2,
     "Class": "S1 819",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5321,7 +4967,6 @@
     "Launch": 5.8,
     "Braking": 4.6,
     "Class": "C 564",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5336,7 +4981,6 @@
     "Launch": 6.4,
     "Braking": 4.3,
     "Class": "C 507",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5351,7 +4995,6 @@
     "Launch": 8.8,
     "Braking": 7.3,
     "Class": "S1 835",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5366,7 +5009,6 @@
     "Launch": 6.4,
     "Braking": 4.4,
     "Class": "C 561",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5381,7 +5023,6 @@
     "Launch": 10,
     "Braking": 5.8,
     "Class": "A 703",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5396,7 +5037,6 @@
     "Launch": 7.7,
     "Braking": 6.4,
     "Class": "A 774",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5411,7 +5051,6 @@
     "Launch": 7.7,
     "Braking": 5.2,
     "Class": "B 608",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5426,7 +5065,6 @@
     "Launch": 5.4,
     "Braking": 3.6,
     "Class": "D 100",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5441,7 +5079,6 @@
     "Launch": 7,
     "Braking": 4.9,
     "Class": "C 533",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5456,7 +5093,6 @@
     "Launch": 7.1,
     "Braking": 5.1,
     "Class": "D 416",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5471,7 +5107,6 @@
     "Launch": 6.4,
     "Braking": 4.5,
     "Class": "C 529",
-    "Owned": "",
     "Marque": "Ford"
   },
   {
@@ -5486,7 +5121,6 @@
     "Launch": 7.9,
     "Braking": 7.4,
     "Class": "S1 836",
-    "Owned": "",
     "Marque": "Formula Drift"
   },
   {
@@ -5501,7 +5135,6 @@
     "Launch": 8.4,
     "Braking": 7.5,
     "Class": "S1 861",
-    "Owned": "",
     "Marque": "Formula Drift"
   },
   {
@@ -5516,7 +5149,6 @@
     "Launch": 8.2,
     "Braking": 7.2,
     "Class": "S1 837",
-    "Owned": "",
     "Marque": "Formula Drift"
   },
   {
@@ -5531,7 +5163,6 @@
     "Launch": 6.6,
     "Braking": 4.6,
     "Class": "C 545",
-    "Owned": "",
     "Marque": "HDT"
   },
   {
@@ -5546,7 +5177,6 @@
     "Launch": 9.1,
     "Braking": 8.7,
     "Class": "S2 930",
-    "Owned": "",
     "Marque": "Hennessey"
   },
   {
@@ -5561,7 +5191,6 @@
     "Launch": 10,
     "Braking": 8,
     "Class": "S1 878",
-    "Owned": "",
     "Marque": "Honda"
   },
   {
@@ -5576,7 +5205,6 @@
     "Launch": 7.7,
     "Braking": 6.6,
     "Class": "A 714",
-    "Owned": "",
     "Marque": "Honda"
   },
   {
@@ -5591,7 +5219,6 @@
     "Launch": 7.7,
     "Braking": 6.8,
     "Class": "A 745",
-    "Owned": "",
     "Marque": "Honda"
   },
   {
@@ -5606,7 +5233,6 @@
     "Launch": 7.8,
     "Braking": 5.9,
     "Class": "A 714",
-    "Owned": "",
     "Marque": "Honda"
   },
   {
@@ -5621,7 +5247,6 @@
     "Launch": 8.5,
     "Braking": 6.2,
     "Class": "A 751",
-    "Owned": "",
     "Marque": "Honda"
   },
   {
@@ -5636,7 +5261,6 @@
     "Launch": 8.1,
     "Braking": 6.7,
     "Class": "A 765",
-    "Owned": "",
     "Marque": "Hoonigan"
   },
   {
@@ -5651,7 +5275,6 @@
     "Launch": 10,
     "Braking": 8.5,
     "Class": "S2 985",
-    "Owned": "",
     "Marque": "Hoonigan"
   },
   {
@@ -5666,7 +5289,6 @@
     "Launch": 8.3,
     "Braking": 8.2,
     "Class": "S1 828",
-    "Owned": "",
     "Marque": "Hoonigan"
   },
   {
@@ -5681,7 +5303,6 @@
     "Launch": 10,
     "Braking": 7.5,
     "Class": "S1 880",
-    "Owned": "",
     "Marque": "Hoonigan"
   },
   {
@@ -5696,7 +5317,6 @@
     "Launch": 10,
     "Braking": 8.7,
     "Class": "S2 916",
-    "Owned": "",
     "Marque": "Hoonigan"
   },
   {
@@ -5711,7 +5331,6 @@
     "Launch": 10,
     "Braking": 8.5,
     "Class": "S1 886",
-    "Owned": "",
     "Marque": "Hoonigan"
   },
   {
@@ -5726,7 +5345,6 @@
     "Launch": 8,
     "Braking": 7.3,
     "Class": "S1 838",
-    "Owned": "",
     "Marque": "Hoonigan"
   },
   {
@@ -5741,7 +5359,6 @@
     "Launch": 9.5,
     "Braking": 8.5,
     "Class": "S1 850",
-    "Owned": "",
     "Marque": "Hoonigan"
   },
   {
@@ -5756,7 +5373,6 @@
     "Launch": 7.8,
     "Braking": 6.4,
     "Class": "A 747",
-    "Owned": "",
     "Marque": "HSV"
   },
   {
@@ -5771,7 +5387,6 @@
     "Launch": 6.2,
     "Braking": 4.9,
     "Class": "D 391",
-    "Owned": "",
     "Marque": "Hummer"
   },
   {
@@ -5786,7 +5401,6 @@
     "Launch": 6.4,
     "Braking": 3.6,
     "Class": "C 513",
-    "Owned": "",
     "Marque": "Jaguar"
   },
   {
@@ -5801,7 +5415,6 @@
     "Launch": 8.1,
     "Braking": 6.9,
     "Class": "A 795",
-    "Owned": "",
     "Marque": "Jaguar"
   },
   {
@@ -5816,7 +5429,6 @@
     "Launch": 7.7,
     "Braking": 5.5,
     "Class": "A 707",
-    "Owned": "",
     "Marque": "Jaguar"
   },
   {
@@ -5831,7 +5443,6 @@
     "Launch": 7.8,
     "Braking": 6.7,
     "Class": "A 782",
-    "Owned": "",
     "Marque": "Jaguar"
   },
   {
@@ -5846,7 +5457,6 @@
     "Launch": 8.1,
     "Braking": 7.5,
     "Class": "A 798",
-    "Owned": "",
     "Marque": "Jaguar"
   },
   {
@@ -5861,7 +5471,6 @@
     "Launch": 6.4,
     "Braking": 4.2,
     "Class": "D 414",
-    "Owned": "",
     "Marque": "James Bond"
   },
   {
@@ -5876,7 +5485,6 @@
     "Launch": 8.5,
     "Braking": 8,
     "Class": "S1 814",
-    "Owned": "",
     "Marque": "James Bond"
   },
   {
@@ -5891,7 +5499,6 @@
     "Launch": 7.2,
     "Braking": 4.7,
     "Class": "B 618",
-    "Owned": "",
     "Marque": "James Bond"
   },
   {
@@ -5906,7 +5513,6 @@
     "Launch": 8.2,
     "Braking": 7.4,
     "Class": "A 779",
-    "Owned": "",
     "Marque": "James Bond"
   },
   {
@@ -5921,7 +5527,6 @@
     "Launch": 7.4,
     "Braking": 5,
     "Class": "B 612",
-    "Owned": "",
     "Marque": "James Bond"
   },
   {
@@ -5936,7 +5541,6 @@
     "Launch": 6.8,
     "Braking": 4.9,
     "Class": "B 620",
-    "Owned": "",
     "Marque": "James Bond"
   },
   {
@@ -5951,7 +5555,6 @@
     "Launch": 8,
     "Braking": 5.7,
     "Class": "A 720",
-    "Owned": "",
     "Marque": "James Bond"
   },
   {
@@ -5966,7 +5569,6 @@
     "Launch": 4.8,
     "Braking": 3.8,
     "Class": "D 100",
-    "Owned": "",
     "Marque": "James Bond"
   },
   {
@@ -5981,7 +5583,6 @@
     "Launch": 10,
     "Braking": 8.5,
     "Class": "S1 900",
-    "Owned": "",
     "Marque": "James Bond"
   },
   {
@@ -5996,7 +5597,6 @@
     "Launch": 6.8,
     "Braking": 5.1,
     "Class": "C 541",
-    "Owned": "",
     "Marque": "James Bond"
   },
   {
@@ -6011,7 +5611,6 @@
     "Launch": 8.9,
     "Braking": 4.6,
     "Class": "D 417",
-    "Owned": "",
     "Marque": "Jeep"
   },
   {
@@ -6026,7 +5625,6 @@
     "Launch": 9.3,
     "Braking": 6.1,
     "Class": "A 711",
-    "Owned": "",
     "Marque": "Jeep"
   },
   {
@@ -6041,7 +5639,6 @@
     "Launch": 8.9,
     "Braking": 8.9,
     "Class": "S2 920",
-    "Owned": "",
     "Marque": "Koenigsegg"
   },
   {
@@ -6056,7 +5653,6 @@
     "Launch": 9,
     "Braking": 10,
     "Class": "S2 996",
-    "Owned": "",
     "Marque": "Koenigsegg"
   },
   {
@@ -6071,7 +5667,6 @@
     "Launch": 9,
     "Braking": 10,
     "Class": "S2 993",
-    "Owned": "",
     "Marque": "Koenigsegg"
   },
   {
@@ -6086,7 +5681,6 @@
     "Launch": 8.9,
     "Braking": 9.7,
     "Class": "S2 972",
-    "Owned": "",
     "Marque": "Koenigsegg"
   },
   {
@@ -6101,7 +5695,6 @@
     "Launch": 10,
     "Braking": 8.3,
     "Class": "S1 882",
-    "Owned": "",
     "Marque": "Lamborghini"
   },
   {
@@ -6116,7 +5709,6 @@
     "Launch": 10,
     "Braking": 9.1,
     "Class": "S2 906",
-    "Owned": "",
     "Marque": "Lamborghini"
   },
   {
@@ -6131,7 +5723,6 @@
     "Launch": 10,
     "Braking": 9.8,
     "Class": "S2 918",
-    "Owned": "",
     "Marque": "Lamborghini"
   },
   {
@@ -6146,7 +5737,6 @@
     "Launch": 8.1,
     "Braking": 7.6,
     "Class": "S1 814",
-    "Owned": "",
     "Marque": "Lamborghini"
   },
   {
@@ -6161,7 +5751,6 @@
     "Launch": 9.4,
     "Braking": 7.5,
     "Class": "S1 833",
-    "Owned": "",
     "Marque": "Lamborghini"
   },
   {
@@ -6176,7 +5765,6 @@
     "Launch": 8,
     "Braking": 7.9,
     "Class": "S1 840",
-    "Owned": "",
     "Marque": "Lamborghini"
   },
   {
@@ -6191,7 +5779,6 @@
     "Launch": 8,
     "Braking": 7.9,
     "Class": "S1 841",
-    "Owned": "",
     "Marque": "Lamborghini"
   },
   {
@@ -6206,7 +5793,6 @@
     "Launch": 8,
     "Braking": 8.2,
     "Class": "S1 847",
-    "Owned": "",
     "Marque": "Lamborghini"
   },
   {
@@ -6221,7 +5807,6 @@
     "Launch": 10,
     "Braking": 10,
     "Class": "S2 948",
-    "Owned": "",
     "Marque": "Lamborghini"
   },
   {
@@ -6236,7 +5821,6 @@
     "Launch": 8.7,
     "Braking": 7.1,
     "Class": "A 774",
-    "Owned": "",
     "Marque": "Lamborghini"
   },
   {
@@ -6251,7 +5835,6 @@
     "Launch": 10,
     "Braking": 10,
     "Class": "S2 943",
-    "Owned": "",
     "Marque": "Lamborghini"
   },
   {
@@ -6266,7 +5849,6 @@
     "Launch": 8,
     "Braking": 5,
     "Class": "C 532",
-    "Owned": "",
     "Marque": "Lancia"
   },
   {
@@ -6281,7 +5863,6 @@
     "Launch": 7,
     "Braking": 4.7,
     "Class": "D 490",
-    "Owned": "",
     "Marque": "Lancia"
   },
   {
@@ -6296,7 +5877,6 @@
     "Launch": 7.8,
     "Braking": 4.6,
     "Class": "C 544",
-    "Owned": "",
     "Marque": "Lancia"
   },
   {
@@ -6311,7 +5891,6 @@
     "Launch": 9.4,
     "Braking": 6.6,
     "Class": "S1 828",
-    "Owned": "",
     "Marque": "Lola"
   },
   {
@@ -6326,7 +5905,6 @@
     "Launch": 6.3,
     "Braking": 5.2,
     "Class": "C 553",
-    "Owned": "",
     "Marque": "Lotus"
   },
   {
@@ -6341,7 +5919,6 @@
     "Launch": 7.8,
     "Braking": 7,
     "Class": "B 650",
-    "Owned": "",
     "Marque": "Lotus"
   },
   {
@@ -6356,7 +5933,6 @@
     "Launch": 8.8,
     "Braking": 6.6,
     "Class": "A 748",
-    "Owned": "",
     "Marque": "Lotus"
   },
   {
@@ -6371,7 +5947,6 @@
     "Launch": 8.9,
     "Braking": 7.4,
     "Class": "A 772",
-    "Owned": "",
     "Marque": "Lotus"
   },
   {
@@ -6386,7 +5961,6 @@
     "Launch": 7,
     "Braking": 4.7,
     "Class": "B 668",
-    "Owned": "",
     "Marque": "Maserati"
   },
   {
@@ -6401,7 +5975,6 @@
     "Launch": 6.9,
     "Braking": 4.8,
     "Class": "B 648",
-    "Owned": "",
     "Marque": "Maserati"
   },
   {
@@ -6416,7 +5989,6 @@
     "Launch": 5.1,
     "Braking": 4.6,
     "Class": "D 486",
-    "Owned": "",
     "Marque": "Maserati"
   },
   {
@@ -6431,7 +6003,6 @@
     "Launch": 9.1,
     "Braking": 8.3,
     "Class": "S1 861",
-    "Owned": "",
     "Marque": "Maserati"
   },
   {
@@ -6446,7 +6017,6 @@
     "Launch": 9.9,
     "Braking": 10,
     "Class": "S2 945",
-    "Owned": "",
     "Marque": "Maserati"
   },
   {
@@ -6461,7 +6031,6 @@
     "Launch": 8,
     "Braking": 5.7,
     "Class": "A 747",
-    "Owned": "",
     "Marque": "Maserati"
   },
   {
@@ -6476,7 +6045,6 @@
     "Launch": 8,
     "Braking": 5.1,
     "Class": "B 681",
-    "Owned": "",
     "Marque": "Mazda"
   },
   {
@@ -6491,7 +6059,6 @@
     "Launch": 8,
     "Braking": 5.7,
     "Class": "A 711",
-    "Owned": "",
     "Marque": "Mazda"
   },
   {
@@ -6506,7 +6073,6 @@
     "Launch": 7.7,
     "Braking": 5.3,
     "Class": "C 561",
-    "Owned": "Yes",
     "Marque": "Mazda"
   },
   {
@@ -6521,7 +6087,6 @@
     "Launch": 9.1,
     "Braking": 8.6,
     "Class": "S1 877",
-    "Owned": "",
     "Marque": "McLaren"
   },
   {
@@ -6536,7 +6101,6 @@
     "Launch": 9.4,
     "Braking": 9.4,
     "Class": "S2 929",
-    "Owned": "",
     "Marque": "McLaren"
   },
   {
@@ -6551,7 +6115,6 @@
     "Launch": 8.5,
     "Braking": 7.2,
     "Class": "S1 826",
-    "Owned": "",
     "Marque": "McLaren"
   },
   {
@@ -6566,7 +6129,6 @@
     "Launch": 8.9,
     "Braking": 8.6,
     "Class": "S1 888",
-    "Owned": "",
     "Marque": "McLaren"
   },
   {
@@ -6581,7 +6143,6 @@
     "Launch": 9.3,
     "Braking": 9.7,
     "Class": "S2 962",
-    "Owned": "",
     "Marque": "McLaren"
   },
   {
@@ -6596,7 +6157,6 @@
     "Launch": 9.9,
     "Braking": 10,
     "Class": "S2 977",
-    "Owned": "",
     "Marque": "McLaren"
   },
   {
@@ -6611,7 +6171,6 @@
     "Launch": 8.1,
     "Braking": 7.2,
     "Class": "A 777",
-    "Owned": "",
     "Marque": "Mercedes-AMG"
   },
   {
@@ -6626,7 +6185,6 @@
     "Launch": 8.9,
     "Braking": 8.6,
     "Class": "S1 858",
-    "Owned": "",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -6641,7 +6199,6 @@
     "Launch": 7.2,
     "Braking": 5.4,
     "Class": "C 579",
-    "Owned": "",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -6656,7 +6213,6 @@
     "Launch": 6.4,
     "Braking": 4.4,
     "Class": "D 476",
-    "Owned": "",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -6671,7 +6227,6 @@
     "Launch": 7.1,
     "Braking": 4.9,
     "Class": "A 708",
-    "Owned": "",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -6686,7 +6241,6 @@
     "Launch": 8.6,
     "Braking": 8.1,
     "Class": "S1 848",
-    "Owned": "",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -6701,7 +6255,6 @@
     "Launch": 8,
     "Braking": 7,
     "Class": "A 792",
-    "Owned": "",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -6716,7 +6269,6 @@
     "Launch": 9.8,
     "Braking": 6.5,
     "Class": "A 777",
-    "Owned": "",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -6731,7 +6283,6 @@
     "Launch": 10,
     "Braking": 5.6,
     "Class": "A 712",
-    "Owned": "",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -6746,7 +6297,6 @@
     "Launch": 8.3,
     "Braking": 7.3,
     "Class": "S1 820",
-    "Owned": "",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -6761,7 +6311,6 @@
     "Launch": 8.2,
     "Braking": 6.8,
     "Class": "A 766",
-    "Owned": "",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -6776,7 +6325,6 @@
     "Launch": 8.5,
     "Braking": 7.4,
     "Class": "S1 822",
-    "Owned": "",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -6791,7 +6339,6 @@
     "Launch": 7.2,
     "Braking": 4.7,
     "Class": "B 676",
-    "Owned": "",
     "Marque": "Mercedes-Benz"
   },
   {
@@ -6806,7 +6353,6 @@
     "Launch": 6.3,
     "Braking": 3.7,
     "Class": "D 222",
-    "Owned": "",
     "Marque": "MG"
   },
   {
@@ -6821,7 +6367,6 @@
     "Launch": 7.4,
     "Braking": 6.5,
     "Class": "B 639",
-    "Owned": "",
     "Marque": "Mini"
   },
   {
@@ -6836,7 +6381,6 @@
     "Launch": 7.4,
     "Braking": 5.7,
     "Class": "B 642",
-    "Owned": "",
     "Marque": "Mini"
   },
   {
@@ -6851,7 +6395,6 @@
     "Launch": 9.9,
     "Braking": 5.9,
     "Class": "B 682",
-    "Owned": "",
     "Marque": "Mini"
   },
   {
@@ -6866,7 +6409,6 @@
     "Launch": 6.7,
     "Braking": 4.6,
     "Class": "D 449",
-    "Owned": "",
     "Marque": "Nissan"
   },
   {
@@ -6881,7 +6423,6 @@
     "Launch": 7.9,
     "Braking": 5.7,
     "Class": "A 716",
-    "Owned": "",
     "Marque": "Nissan"
   },
   {
@@ -6896,7 +6437,6 @@
     "Launch": 10,
     "Braking": 7.6,
     "Class": "S1 836",
-    "Owned": "",
     "Marque": "Nissan"
   },
   {
@@ -6911,7 +6451,6 @@
     "Launch": 10,
     "Braking": 7.2,
     "Class": "S1 820",
-    "Owned": "",
     "Marque": "Nissan"
   },
   {
@@ -6926,7 +6465,6 @@
     "Launch": 7.6,
     "Braking": 5.8,
     "Class": "B 685",
-    "Owned": "",
     "Marque": "Nissan"
   },
   {
@@ -6941,7 +6479,6 @@
     "Launch": 9.2,
     "Braking": 10,
     "Class": "S1 886",
-    "Owned": "",
     "Marque": "Nissan"
   },
   {
@@ -6956,7 +6493,6 @@
     "Launch": 7.4,
     "Braking": 6.2,
     "Class": "C 588",
-    "Owned": "",
     "Marque": "Nissan"
   },
   {
@@ -6971,7 +6507,6 @@
     "Launch": 7.5,
     "Braking": 5,
     "Class": "C 600",
-    "Owned": "",
     "Marque": "Nissan"
   },
   {
@@ -6986,7 +6521,6 @@
     "Launch": 7.7,
     "Braking": 5.2,
     "Class": "B 643",
-    "Owned": "",
     "Marque": "Nissan"
   },
   {
@@ -7001,7 +6535,6 @@
     "Launch": 7.7,
     "Braking": 5.6,
     "Class": "B 620",
-    "Owned": "",
     "Marque": "Nissan"
   },
   {
@@ -7016,7 +6549,6 @@
     "Launch": 7.2,
     "Braking": 4.6,
     "Class": "C 538",
-    "Owned": "",
     "Marque": "Nissan"
   },
   {
@@ -7031,7 +6563,6 @@
     "Launch": 6.1,
     "Braking": 4.7,
     "Class": "D 494",
-    "Owned": "",
     "Marque": "Nissan"
   },
   {
@@ -7046,7 +6577,6 @@
     "Launch": 7.3,
     "Braking": 4.8,
     "Class": "D 491",
-    "Owned": "",
     "Marque": "Nissan"
   },
   {
@@ -7061,7 +6591,6 @@
     "Launch": 7.2,
     "Braking": 5.8,
     "Class": "C 583",
-    "Owned": "",
     "Marque": "Nissan"
   },
   {
@@ -7076,7 +6605,6 @@
     "Launch": 8.9,
     "Braking": 8.8,
     "Class": "S1 900",
-    "Owned": "",
     "Marque": "Pagani"
   },
   {
@@ -7091,7 +6619,6 @@
     "Launch": 9.4,
     "Braking": 10,
     "Class": "S2 961",
-    "Owned": "",
     "Marque": "Pagani"
   },
   {
@@ -7106,7 +6633,6 @@
     "Launch": 8.9,
     "Braking": 10,
     "Class": "S2 908",
-    "Owned": "",
     "Marque": "Pagani"
   },
   {
@@ -7121,7 +6647,6 @@
     "Launch": 9.5,
     "Braking": 10,
     "Class": "S2 966",
-    "Owned": "",
     "Marque": "Pagani"
   },
   {
@@ -7136,7 +6661,6 @@
     "Launch": 9.5,
     "Braking": 10,
     "Class": "S2 986",
-    "Owned": "",
     "Marque": "Pagani"
   },
   {
@@ -7151,7 +6675,6 @@
     "Launch": 8.5,
     "Braking": 6.3,
     "Class": "B 646",
-    "Owned": "",
     "Marque": "Penhall"
   },
   {
@@ -7166,7 +6689,6 @@
     "Launch": 9.3,
     "Braking": 8.4,
     "Class": "S1 899",
-    "Owned": "",
     "Marque": "Peugeot"
   },
   {
@@ -7181,7 +6703,6 @@
     "Launch": 7.6,
     "Braking": 6.5,
     "Class": "S1 815",
-    "Owned": "",
     "Marque": "Polaris"
   },
   {
@@ -7196,7 +6717,6 @@
     "Launch": 6.3,
     "Braking": 4.3,
     "Class": "C 514",
-    "Owned": "",
     "Marque": "Pontiac"
   },
   {
@@ -7211,7 +6731,6 @@
     "Launch": 10,
     "Braking": 7.1,
     "Class": "A 779",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7226,7 +6745,6 @@
     "Launch": 9.5,
     "Braking": 6.6,
     "Class": "S1 861",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7241,7 +6759,6 @@
     "Launch": 6.1,
     "Braking": 3.7,
     "Class": "D 180",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7256,7 +6773,6 @@
     "Launch": 6.8,
     "Braking": 3.8,
     "Class": "D 185",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7271,7 +6787,6 @@
     "Launch": 7.8,
     "Braking": 5.5,
     "Class": "A 716",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7286,7 +6801,6 @@
     "Launch": 8.1,
     "Braking": 5,
     "Class": "B 631",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7301,7 +6815,6 @@
     "Launch": 8.7,
     "Braking": 8.8,
     "Class": "S1 850",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7316,7 +6829,6 @@
     "Launch": 9.2,
     "Braking": 7,
     "Class": "A 774",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7331,7 +6843,6 @@
     "Launch": 9.9,
     "Braking": 8.9,
     "Class": "S1 882",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7346,7 +6857,6 @@
     "Launch": 9.7,
     "Braking": 9.4,
     "Class": "S2 910",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7361,7 +6871,6 @@
     "Launch": 9.1,
     "Braking": 7.6,
     "Class": "S1 803",
-    "Owned": "Yes",
     "Marque": "Porsche"
   },
   {
@@ -7376,7 +6885,6 @@
     "Launch": 9.6,
     "Braking": 10,
     "Class": "S2 904",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7391,7 +6899,6 @@
     "Launch": 9.6,
     "Braking": 10,
     "Class": "S2 915",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7406,7 +6913,6 @@
     "Launch": 9.8,
     "Braking": 8.7,
     "Class": "S1 847",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7421,7 +6927,6 @@
     "Launch": 10,
     "Braking": 7.2,
     "Class": "S1 827",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7436,7 +6941,6 @@
     "Launch": 10,
     "Braking": 9.7,
     "Class": "S2 942",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7451,7 +6955,6 @@
     "Launch": 9,
     "Braking": 8.6,
     "Class": "S1 866",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7466,7 +6969,6 @@
     "Launch": 9.5,
     "Braking": 6.3,
     "Class": "A 740",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7481,7 +6983,6 @@
     "Launch": 8.9,
     "Braking": 6.4,
     "Class": "A 708",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7496,7 +6997,6 @@
     "Launch": 10,
     "Braking": 7.2,
     "Class": "A 789",
-    "Owned": "",
     "Marque": "Porsche"
   },
   {
@@ -7511,7 +7011,6 @@
     "Launch": 7.2,
     "Braking": 4.6,
     "Class": "C 522",
-    "Owned": "",
     "Marque": "Renault"
   },
   {
@@ -7526,7 +7025,6 @@
     "Launch": 9.3,
     "Braking": 8.4,
     "Class": "S1 879",
-    "Owned": "",
     "Marque": "Saleen"
   },
   {
@@ -7541,7 +7039,6 @@
     "Launch": 7.5,
     "Braking": 4.8,
     "Class": "B 700",
-    "Owned": "",
     "Marque": "Shelby"
   },
   {
@@ -7556,7 +7053,6 @@
     "Launch": 6.5,
     "Braking": 4.8,
     "Class": "B 645",
-    "Owned": "",
     "Marque": "Shelby"
   },
   {
@@ -7571,7 +7067,6 @@
     "Launch": 9.1,
     "Braking": 9.3,
     "Class": "S2 931",
-    "Owned": "",
     "Marque": "Spania"
   },
   {
@@ -7586,7 +7081,6 @@
     "Launch": 10,
     "Braking": 8,
     "Class": "A 762",
-    "Owned": "",
     "Marque": "Subaru"
   },
   {
@@ -7601,7 +7095,6 @@
     "Launch": 9.4,
     "Braking": 5.5,
     "Class": "B 670",
-    "Owned": "",
     "Marque": "Subaru"
   },
   {
@@ -7616,7 +7109,6 @@
     "Launch": 9.2,
     "Braking": 6.1,
     "Class": "B 681",
-    "Owned": "",
     "Marque": "Subaru"
   },
   {
@@ -7631,7 +7123,6 @@
     "Launch": 8.8,
     "Braking": 6.1,
     "Class": "B 693",
-    "Owned": "",
     "Marque": "Subaru"
   },
   {
@@ -7646,7 +7137,6 @@
     "Launch": 7.8,
     "Braking": 5.6,
     "Class": "C 577",
-    "Owned": "",
     "Marque": "Tamo"
   },
   {
@@ -7661,7 +7151,6 @@
     "Launch": 4.1,
     "Braking": 5.3,
     "Class": "D 223",
-    "Owned": "",
     "Marque": "Terradyne"
   },
   {
@@ -7676,7 +7165,6 @@
     "Launch": 9.2,
     "Braking": 6.5,
     "Class": "A 732",
-    "Owned": "",
     "Marque": "Toyota"
   },
   {
@@ -7691,7 +7179,6 @@
     "Launch": 5.8,
     "Braking": 4.3,
     "Class": "D 243",
-    "Owned": "",
     "Marque": "Triumph"
   },
   {
@@ -7706,7 +7193,6 @@
     "Launch": 8.1,
     "Braking": 7,
     "Class": "A 797",
-    "Owned": "",
     "Marque": "TVR"
   },
   {
@@ -7721,7 +7207,6 @@
     "Launch": 9.4,
     "Braking": 9.1,
     "Class": "S2 902",
-    "Owned": "",
     "Marque": "TVR"
   },
   {
@@ -7736,7 +7221,6 @@
     "Launch": 8.6,
     "Braking": 6,
     "Class": "B 676",
-    "Owned": "",
     "Marque": "Vauxhall"
   },
   {
@@ -7751,7 +7235,6 @@
     "Launch": 8.7,
     "Braking": 6.8,
     "Class": "A 717",
-    "Owned": "",
     "Marque": "Vauxhall"
   },
   {
@@ -7766,7 +7249,6 @@
     "Launch": 8.9,
     "Braking": 5.6,
     "Class": "B 672",
-    "Owned": "",
     "Marque": "Volkswagen"
   },
   {
@@ -7781,7 +7263,6 @@
     "Launch": 8.3,
     "Braking": 5.1,
     "Class": "B 661",
-    "Owned": "",
     "Marque": "Volkswagen"
   },
   {
@@ -7796,7 +7277,6 @@
     "Launch": 6.9,
     "Braking": 5.1,
     "Class": "C 512",
-    "Owned": "Yes",
     "Marque": "Volkswagen"
   },
   {
@@ -7811,7 +7291,6 @@
     "Launch": 3.9,
     "Braking": 5.7,
     "Class": "D 100",
-    "Owned": "",
     "Marque": "Volkswagen"
   },
   {
@@ -7826,7 +7305,6 @@
     "Launch": 8.9,
     "Braking": 6.9,
     "Class": "A 797",
-    "Owned": "",
     "Marque": "Volvo"
   },
   {
@@ -7841,7 +7319,6 @@
     "Launch": 9.2,
     "Braking": 9,
     "Class": "S2 907",
-    "Owned": "",
     "Marque": "W Motors"
   },
   {
@@ -7856,7 +7333,6 @@
     "Launch": 8.7,
     "Braking": 8.4,
     "Class": "S1 900",
-    "Owned": "",
     "Marque": "Zenvo"
   }
 ]
