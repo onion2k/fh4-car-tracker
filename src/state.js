@@ -6,16 +6,12 @@ configure({ enforceActions: "observed" });
 class fh4CarData {
 
     constructor(){
+        const ownedRaw = localStorage.getItem("fh4-owned");
+        this.owned = ownedRaw ? JSON.parse(ownedRaw) : [];
         this.cars = carsData.sort((a,b) => (a.Car > b.Car) ? 1 : ((b.Car > a.Car) ? -1 : 0));
         this.hideOwned = false;
         this.hideComplete = false;
         this.sortField = "Car";
-        this.getOwned();
-    }
-
-    getOwned = () => {
-        const ownedRaw = localStorage.getItem("fh4-owned");
-        this.owned = ownedRaw ? JSON.parse(ownedRaw) : [];
     }
 
     toggleHideOwned = () => {
@@ -40,9 +36,8 @@ class fh4CarData {
     }
 
     marque = (marque) => {
-
         return this.cars.reduce((i, car)=>{ if (car.Marque===marque) i.push(car); return i; }, []).map((car)=>{
-            if (this.owned.indexOf(car.Car)!==-1) {
+            if (this.owned.indexOf(`${car.Year}-${car.Car}`)!==-1) {
                 car.Owned = true;
             }
             return car;
@@ -71,6 +66,8 @@ class fh4CarData {
 }
 
 decorate(fh4CarData, {
+    owned: observable,
+    cars: observable,
     getOwned: action,
     toggle: action,
     sortCars: action,
@@ -79,8 +76,6 @@ decorate(fh4CarData, {
     sortField: observable,
     hideOwned: observable,
     hideComplete: observable,
-    cars: observable,
-    owned: observable,
     marques: computed,
     marque: action
 });
