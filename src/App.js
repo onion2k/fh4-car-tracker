@@ -3,6 +3,7 @@ import { Provider } from "mobx-react";
 import Shortcuts from './Shortcuts';
 import Options from './Options';
 import MarqueList from './MarqueList';
+import Stats from "./Stats";
 import './App.css';
 
 import fh4CarData from './state.js';
@@ -18,6 +19,8 @@ class App extends Component {
           <Shortcuts />
           <Options />
           <MarqueList />
+
+          <Stats />
 
         </div>
       </Provider>

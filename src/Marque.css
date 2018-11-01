@@ -7,13 +7,13 @@
 }
 
 .Marque > div.title {
-    background: transparent; /* Old browsers */
-    background: -moz-linear-gradient(-45deg, #f6f8f9 0%, #e5ebee 50%, #d7dee3 51%, #d7dee3 83%, transparent 86%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(-45deg, #f6f8f9 0%,#e5ebee 50%,#d7dee3 51%,#d7dee3 83%,transparent 86%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(135deg, #f6f8f9 0%,#e5ebee 50%,#d7dee3 51%,#d7dee3 83%,transparent 86%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-
-    padding: 15px 20px;
-    width: 90%;
+    background: #b5eeff; /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #b5eeff 38%, #edf1ff 87%, #ffffff 88%, #ffffff 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #b5eeff 38%,#edf1ff 87%,#ffffff 88%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #b5eeff 38%,#edf1ff 87%,#ffffff 88%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5eeff', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    padding: 8px 20px;
+    width: 95%;
     font-weight: bold;
 }
 

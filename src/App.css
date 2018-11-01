@@ -1,6 +1,7 @@
 
 .App {
   background-color: #ffffff;
+  overflow-x: hidden;
 }
 
 .order {
@@ -13,4 +14,10 @@
 
 .marques {
   margin-left: 30px;
+}
+
+.Stats {
+  flex: 1;
+  padding: 15px 15px 15px 50px;
+  border-top: 2px solid #888888;
 }
