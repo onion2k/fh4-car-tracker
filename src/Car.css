@@ -1,4 +1,5 @@
 .Car {
+    position: relative;
     width: 100px;
     border-radius: 5px;
     border: 3px solid #000000;
@@ -13,7 +14,7 @@
     grid-template-areas: "title title" "class year";
 }
   
-.title { grid-area: title; font-size: 16px;font-weight: bold; overflow: hidden; }
+.title { grid-area: title; font-size: 14px; font-weight: bold; overflow: hidden; }
 
 .class { grid-area: class; align-self: flex-end; }
 
@@ -44,4 +45,44 @@
 }
 .Class-X {
     border-color: #19A83C;
+}
+
+.FE:before {
+    content: " ";
+    position: absolute;
+    z-index: 0;
+    top: -8px;
+    left: -8px;
+    right: -8px;
+    bottom: -8px;
+    border: 3px solid #ff0000;
+    border-radius: 5px;
+}
+.Class-D.FE:before {
+    border-color: #1BA9E9;
+}
+.Class-C.FE:before {
+    border-color: #E1BA0D;
+}
+.Class-B.FE:before {
+    border-color: #DB511B;
+}
+.Class-A.FE:before {
+    border-color: #C53419;
+}
+.Class-S1.FE:before {
+    border-color: #882FF2;
+}
+.Class-S2.FE:before {
+    border-color: #882FF2;
+}
+.Class-X.FE:before {
+    border-color: #19A83C;
+}
+
+@media (min-width: 800px) {
+    .Car {
+        width: 140px;
+    }
+    .title { font-size: 16px; }
 }

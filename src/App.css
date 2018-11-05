@@ -12,6 +12,10 @@
   grid-gap: 10px;
 }
 
+.selected {
+  background-color: #dddddd;
+}
+
 .marques {
   margin-left: 30px;
 }
@@ -20,4 +24,11 @@
   flex: 1;
   padding: 15px 15px 15px 50px;
   border-top: 2px solid #888888;
+}
+
+@media (min-width: 800px) {
+  .order {
+    grid-template-columns: repeat(auto-fill, 160px);
+    grid-auto-rows: 80px;
+  }
 }

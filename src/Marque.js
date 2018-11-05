@@ -25,7 +25,54 @@ class Marque extends Component {
             }
         }
 
-        marqueCars.sort((a,b) => (a[this.props.fh4State.sortField] > b[this.props.fh4State.sortField]) ? 1 : ((b[this.props.fh4State.sortField] > a[this.props.fh4State.sortField]) ? -1 : 0));
+        const s = this.props.fh4State.sortField;
+        const d = this.props.fh4State.sortDirection;
+
+        switch (s) {
+            case "Rarity":
+                marqueCars.sort(
+                    (a,b) => {
+                        return (a[s] > b[s]) ? d : ((a[s] < b[s]) ? !d : 0)
+                    }
+                );
+                break;
+
+            case "Year":
+                marqueCars = marqueCars.slice().sort(
+                    (a,b) => {
+                        return parseInt(a[s]) < parseInt(b[s]) ? d : parseInt(a[s]) > parseInt(b[s]) ? !d : 0;
+                    }
+                );
+
+                break;
+
+            case "Class":
+                marqueCars.sort(
+                    (a,b) => {
+                        return (a[s] > b[s]) ? d : ((a[s] < b[s]) ? !d : 0)
+                    }
+                );
+
+                break;
+
+            case "Car":
+            default: 
+                marqueCars.sort(
+                    (a,b) => {
+                        if (this.props.marque==="Acura") {
+                            marqueCars.map((c)=>{ console.log(c.Car, a[s].toLowerCase()); });
+                        }
+                        return (a[s].toLowerCase() > b[s].toLowerCase()) ? d : (a[s].toLowerCase() < b[s].toLowerCase() ? !d : 0)
+                    }
+                );
+
+                break;
+
+        }
+
+        if (this.props.marque==="Acura") {
+            marqueCars.map((c)=>{ console.log(c.Car, c.Year); });
+        }
 
         const carsList = this.state.hide ? null : <div className="cars">{marqueCars.map((car)=>{
             if (this.props.fh4State.hideOwned && car.Owned) { return null; }
