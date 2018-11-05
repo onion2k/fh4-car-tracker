@@ -12,7 +12,7 @@ class fh4CarData {
         this.hideOwned = false;
         this.hideComplete = false;
         this.sortField = "Car";
-        this.sortDirection = 1;
+        this.sortDirection = -1;
     }
 
     toggleHideOwned = () => {
@@ -28,7 +28,7 @@ class fh4CarData {
             this.sortDirection = this.sortDirection * -1;
         } else {
             this.sortField = field;
-            this.sortDirection = 1;
+            this.sortDirection = -1;
         }
     }
 
