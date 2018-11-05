@@ -14,7 +14,7 @@ class Marque extends Component {
 
     render(){
 
-        let marqueCars = this.props.fh4State.marque(this.props.marque);
+        const marqueCars = this.props.fh4State.marque(this.props.marque);
         const className = ["Marque"];
 
         if (this.props.fh4State.hideComplete) {
@@ -25,31 +25,33 @@ class Marque extends Component {
             }
         }
 
+        let marqueCarsSortable = marqueCars.slice();
+
         const s = this.props.fh4State.sortField;
         const d = this.props.fh4State.sortDirection;
 
         switch (s) {
             case "Rarity":
-                marqueCars.sort(
+                marqueCarsSortable = marqueCarsSortable.sort(
                     (a,b) => {
-                        return (a[s] > b[s]) ? d : ((a[s] < b[s]) ? !d : 0)
+                        return (a[s] > b[s]) ? d : ((a[s] < b[s]) ? d * -1 : 0)
                     }
                 );
                 break;
 
             case "Year":
-                marqueCars = marqueCars.slice().sort(
+                marqueCarsSortable = marqueCarsSortable.slice().sort(
                     (a,b) => {
-                        return parseInt(a[s]) < parseInt(b[s]) ? d : parseInt(a[s]) > parseInt(b[s]) ? !d : 0;
+                        return parseInt(a[s]) < parseInt(b[s]) ? d : parseInt(a[s]) > parseInt(b[s]) ? d * -1 : 0;
                     }
                 );
 
                 break;
 
             case "Class":
-                marqueCars.sort(
+                marqueCarsSortable = marqueCarsSortable.sort(
                     (a,b) => {
-                        return (a[s] > b[s]) ? d : ((a[s] < b[s]) ? !d : 0)
+                        return (a[s] > b[s]) ? d : ((a[s] < b[s]) ? d * -1 : 0)
                     }
                 );
 
@@ -57,12 +59,9 @@ class Marque extends Component {
 
             case "Car":
             default: 
-                marqueCars.sort(
+                marqueCarsSortable = marqueCarsSortable.sort(
                     (a,b) => {
-                        if (this.props.marque==="Acura") {
-                            marqueCars.map((c)=>{ console.log(c.Car, a[s].toLowerCase()); });
-                        }
-                        return (a[s].toLowerCase() > b[s].toLowerCase()) ? d : (a[s].toLowerCase() < b[s].toLowerCase() ? !d : 0)
+                        return (a[s].toLowerCase() > b[s].toLowerCase()) ? d : (a[s].toLowerCase() < b[s].toLowerCase() ? d * -1 : 0)
                     }
                 );
 
@@ -70,11 +69,7 @@ class Marque extends Component {
 
         }
 
-        if (this.props.marque==="Acura") {
-            marqueCars.map((c)=>{ console.log(c.Car, c.Year); });
-        }
-
-        const carsList = this.state.hide ? null : <div className="cars">{marqueCars.map((car)=>{
+        const carsList = this.state.hide ? null : <div className="cars">{marqueCarsSortable.map((car)=>{
             if (this.props.fh4State.hideOwned && car.Owned) { return null; }
             return <Car {...car} key={`${car.Year}-${car.Car}`} id={`${car.Year}-${car.Car}`} Owned={car.Owned} />
         })}</div>;
