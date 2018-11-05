@@ -14,7 +14,7 @@ class Marque extends Component {
 
     render(){
 
-        let marqueCars = this.props.fh4State.marque(this.props.marque);
+        const marqueCars = this.props.fh4State.marque(this.props.marque);
         const className = ["Marque"];
 
         if (this.props.fh4State.hideComplete) {
@@ -25,9 +25,51 @@ class Marque extends Component {
             }
         }
 
-        marqueCars.sort((a,b) => (a[this.props.fh4State.sortField] > b[this.props.fh4State.sortField]) ? 1 : ((b[this.props.fh4State.sortField] > a[this.props.fh4State.sortField]) ? -1 : 0));
+        let marqueCarsSortable = marqueCars.slice();
 
-        const carsList = this.state.hide ? null : <div className="cars">{marqueCars.map((car)=>{
+        const s = this.props.fh4State.sortField;
+        const d = this.props.fh4State.sortDirection;
+
+        switch (s) {
+            case "Rarity":
+                marqueCarsSortable = marqueCarsSortable.sort(
+                    (a,b) => {
+                        return (a[s] > b[s]) ? d : ((a[s] < b[s]) ? d * -1 : 0)
+                    }
+                );
+                break;
+
+            case "Year":
+                marqueCarsSortable = marqueCarsSortable.slice().sort(
+                    (a,b) => {
+                        return parseInt(a[s]) < parseInt(b[s]) ? d : parseInt(a[s]) > parseInt(b[s]) ? d * -1 : 0;
+                    }
+                );
+
+                break;
+
+            case "Class":
+                marqueCarsSortable = marqueCarsSortable.sort(
+                    (a,b) => {
+                        return (a[s] > b[s]) ? d : ((a[s] < b[s]) ? d * -1 : 0)
+                    }
+                );
+
+                break;
+
+            case "Car":
+            default: 
+                marqueCarsSortable = marqueCarsSortable.sort(
+                    (a,b) => {
+                        return (a[s].toLowerCase() > b[s].toLowerCase()) ? d : (a[s].toLowerCase() < b[s].toLowerCase() ? d * -1 : 0)
+                    }
+                );
+
+                break;
+
+        }
+
+        const carsList = this.state.hide ? null : <div className="cars">{marqueCarsSortable.map((car)=>{
             if (this.props.fh4State.hideOwned && car.Owned) { return null; }
             return <Car {...car} key={`${car.Year}-${car.Car}`} id={`${car.Year}-${car.Car}`} Owned={car.Owned} />
         })}</div>;

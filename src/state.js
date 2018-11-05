@@ -12,6 +12,7 @@ class fh4CarData {
         this.hideOwned = false;
         this.hideComplete = false;
         this.sortField = "Car";
+        this.sortDirection = -1;
     }
 
     toggleHideOwned = () => {
@@ -23,7 +24,12 @@ class fh4CarData {
     }
 
     sortCars = (field) => {
-        this.sortField = field;
+        if (this.sortField===field){
+            this.sortDirection = this.sortDirection * -1;
+        } else {
+            this.sortField = field;
+            this.sortDirection = -1;
+        }
     }
 
     get marques() {
@@ -74,6 +80,7 @@ decorate(fh4CarData, {
     toggleHideOwned: action,
     toggleHideComplete: action,
     sortField: observable,
+    sortDirection: observable,
     hideOwned: observable,
     hideComplete: observable,
     marques: computed,
