@@ -43,7 +43,7 @@ class fh4CarData {
 
     marque = (marque) => {
         return this.cars.reduce((i, car)=>{ if (car.Marque===marque) i.push(car); return i; }, []).map((car)=>{
-            if (this.owned.indexOf(`${car.Year}-${car.Car}`)!==-1) {
+            if (this.owned.indexOf(`${car.Year}-${car.Car}`)!==-1 || this.owned.indexOf(`${car.OldCar}`)!==-1) {
                 car.Owned = true;
             }
             return car;
