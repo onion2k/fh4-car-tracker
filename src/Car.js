@@ -7,7 +7,7 @@ class Car extends Component {
 
         const classes = ['Car'];
         classes.push("Class-"+this.props.Class.substr(0, this.props.Class.indexOf(" ")));
-        if (this.props.ForzaEdition) { classes.push("FE"); }
+        if (this.props.Rarity==="FE") { classes.push("FE"); }
         if (this.props.Owned) { classes.push("Owned"); }
 
         return (<div className={classes.join(" ")} onClick={(e)=>{
